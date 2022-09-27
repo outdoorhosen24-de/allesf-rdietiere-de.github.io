@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/biokats", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/biokats-katzenstreu-classic-fresh-18-l-biokats-9335050-1.jpg":"\u002Fassets\u002Fimages\u002Fbiokats-katzenstreu-classic-fresh-18-l-biokats-9335050-1.webp"}}],fetch:{},mutations:void 0});

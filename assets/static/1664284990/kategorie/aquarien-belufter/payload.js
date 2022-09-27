@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/aquarien-belufter", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/jbl-aquarium-luft-schlauch-grau-o-4-6-mm-meterware-jbl-8485419-1.jpg":"\u002Fassets\u002Fimages\u002Fjbl-aquarium-luft-schlauch-grau-o-4-6-mm-meterware-jbl-8485419-1.webp"}}],fetch:{},mutations:void 0});

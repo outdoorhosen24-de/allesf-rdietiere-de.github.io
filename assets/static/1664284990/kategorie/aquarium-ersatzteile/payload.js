@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/aquarium-ersatzteile", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/tetra-vorfilterschwamm-ex-400-1200-plus-tetra-3615465-1.jpg":"\u002Fassets\u002Fimages\u002Ftetra-vorfilterschwamm-ex-400-1200-plus-tetra-3615465-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/nicht-klumpendes-streu", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/top-cat-katzenstreu-light-hygiene-streu-20-l-topcat-3565595-1.jpg":"\u002Fassets\u002Fimages\u002Ftop-cat-katzenstreu-light-hygiene-streu-20-l-topcat-3565595-1.webp"}}],fetch:{},mutations:void 0});

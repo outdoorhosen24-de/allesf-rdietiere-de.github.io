@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/royal-canin", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/royal-canin-indoor-sterilised-in-sosze-nassfutter-wohnungskatzen-85-g-royal-canin-8033110-1.jpg":"\u002Fassets\u002Fimages\u002Froyal-canin-indoor-sterilised-in-sosze-nassfutter-wohnungskatzen-85-g-royal-canin-8033110-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/katzenhygiene-katzengesundheit", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/mps-katzentoilette-komoda-40-cm-x-54-cm-x-39-cm-verschiedene-ausfuehrungen-mps-3973104-1.jpg":"\u002Fassets\u002Fimages\u002Fmps-katzentoilette-komoda-40-cm-x-54-cm-x-39-cm-verschiedene-ausfuehrungen-mps-3973104-1.webp"}}],fetch:{},mutations:void 0});

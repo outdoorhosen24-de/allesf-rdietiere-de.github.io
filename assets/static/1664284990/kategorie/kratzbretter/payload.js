@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/kratzbretter", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/jollypaw-kratzpappe-jola-48-cm-x-5-cm-x-13-cm-beige-jollypaw-9673377-1.jpg":"\u002Fassets\u002Fimages\u002Fjollypaw-kratzpappe-jola-48-cm-x-5-cm-x-13-cm-beige-jollypaw-9673377-1.webp"}}],fetch:{},mutations:void 0});

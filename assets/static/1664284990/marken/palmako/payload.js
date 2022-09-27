@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/palmako", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/palmako-huehnerstall-chick-67-m2-palmako-8834236-1.jpg":"\u002Fassets\u002Fimages\u002Fpalmako-huehnerstall-chick-67-m2-palmako-8834236-1.webp"}}],fetch:{},mutations:void 0});
