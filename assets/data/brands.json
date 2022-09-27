@@ -1,17 +1,31 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "siena garden",
+        "name": "Siena Garden",
+        "slug": "siena-garden",
+        "productCategory": "Siena Garden",
+        "localThumb": "/assets/images/hersteller/siena-garden.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "dobar",
+        "name": "Dobar",
+        "slug": "dobar",
+        "productCategory": "Dobar",
+        "localThumb": "/assets/images/hersteller/dobar.webp"
+    },
+    {
+        "key": "trixie",
+        "name": "Trixie",
+        "slug": "trixie",
+        "productCategory": "Trixie",
+        "localThumb": "/assets/images/hersteller/trixie.webp"
+    },
+    {
+        "key": "biokats",
+        "name": "Biokats",
+        "slug": "biokats",
+        "productCategory": "Biokats",
+        "localThumb": "/assets/images/hersteller/biokats.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +35,185 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "kerbl",
+        "name": "Kerbl",
+        "slug": "kerbl",
+        "productCategory": "Kerbl",
+        "localThumb": "/assets/images/hersteller/kerbl.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "mps",
+        "name": "MPS",
+        "slug": "mps",
+        "productCategory": "MPS",
+        "localThumb": "/assets/images/hersteller/mps.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "jbl",
+        "name": "JBL",
+        "slug": "jbl",
+        "productCategory": "JBL",
+        "localThumb": "/assets/images/hersteller/jbl.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "aquatlantis",
+        "name": "Aquatlantis",
+        "slug": "aquatlantis",
+        "productCategory": "Aquatlantis",
+        "localThumb": "/assets/images/hersteller/aquatlantis.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "fidelio",
+        "name": "Fidelio",
+        "slug": "fidelio",
+        "productCategory": "Fidelio",
+        "localThumb": "/assets/images/hersteller/fidelio.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "chipsi",
+        "name": "Chipsi",
+        "slug": "chipsi",
+        "productCategory": "Chipsi",
+        "localThumb": "/assets/images/hersteller/chipsi.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "jollypaw",
+        "name": "Jollypaw",
+        "slug": "jollypaw",
+        "productCategory": "Jollypaw",
+        "localThumb": "/assets/images/hersteller/jollypaw.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "palmako",
+        "name": "Palmako",
+        "slug": "palmako",
+        "productCategory": "Palmako",
+        "localThumb": "/assets/images/hersteller/palmako.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "juwel aquarium",
+        "name": "Juwel Aquarium",
+        "slug": "juwel-aquarium",
+        "productCategory": "Juwel Aquarium",
+        "localThumb": "/assets/images/hersteller/juwel-aquarium.webp"
+    },
+    {
+        "key": "dennerle",
+        "name": "Dennerle",
+        "slug": "dennerle",
+        "productCategory": "Dennerle",
+        "localThumb": "/assets/images/hersteller/dennerle.webp"
+    },
+    {
+        "key": "kies u sand",
+        "name": "Kies u Sand",
+        "slug": "kies-u-sand",
+        "productCategory": "Kies u Sand",
+        "localThumb": "/assets/images/hersteller/kies-u-sand.webp"
+    },
+    {
+        "key": "esschert",
+        "name": "Esschert",
+        "slug": "esschert",
+        "productCategory": "Esschert",
+        "localThumb": "/assets/images/hersteller/esschert.webp"
+    },
+    {
+        "key": "eheim",
+        "name": "Eheim",
+        "slug": "eheim",
+        "productCategory": "Eheim",
+        "localThumb": "/assets/images/hersteller/eheim.webp"
+    },
+    {
+        "key": "marina",
+        "name": "Marina",
+        "slug": "marina",
+        "productCategory": "Marina",
+        "localThumb": "/assets/images/hersteller/marina.webp"
+    },
+    {
+        "key": "elles",
+        "name": "elles",
+        "slug": "elles",
+        "productCategory": "elles",
+        "localThumb": "/assets/images/hersteller/elles.webp"
+    },
+    {
+        "key": "tetra",
+        "name": "Tetra",
+        "slug": "tetra",
+        "productCategory": "Tetra",
+        "localThumb": "/assets/images/hersteller/tetra.webp"
+    },
+    {
+        "key": "nuber",
+        "name": "Nuber",
+        "slug": "nuber",
+        "productCategory": "Nuber",
+        "localThumb": "/assets/images/hersteller/nuber.webp"
+    },
+    {
+        "key": "topcat",
+        "name": "TopCat",
+        "slug": "topcat",
+        "productCategory": "TopCat",
+        "localThumb": "/assets/images/hersteller/topcat.webp"
+    },
+    {
+        "key": "golden grey",
+        "name": "Golden Grey",
+        "slug": "golden-grey",
+        "productCategory": "Golden Grey",
+        "localThumb": "/assets/images/hersteller/golden-grey.webp"
+    },
+    {
+        "key": "fluval",
+        "name": "Fluval",
+        "slug": "fluval",
+        "productCategory": "Fluval",
+        "localThumb": "/assets/images/hersteller/fluval.webp"
+    },
+    {
+        "key": "primox",
+        "name": "Primox",
+        "slug": "primox",
+        "productCategory": "Primox",
+        "localThumb": "/assets/images/hersteller/primox.webp"
+    },
+    {
+        "key": "gimborn",
+        "name": "Gimborn",
+        "slug": "gimborn",
+        "productCategory": "Gimborn",
+        "localThumb": "/assets/images/hersteller/gimborn.webp"
+    },
+    {
+        "key": "royal canin",
+        "name": "Royal Canin",
+        "slug": "royal-canin",
+        "productCategory": "Royal Canin",
+        "localThumb": "/assets/images/hersteller/royal-canin.webp"
+    },
+    {
+        "key": "vogelpick",
+        "name": "Vogelpick",
+        "slug": "vogelpick",
+        "productCategory": "Vogelpick",
+        "localThumb": "/assets/images/hersteller/vogelpick.webp"
+    },
+    {
+        "key": "söll",
+        "name": "Söll",
+        "slug": "soell",
+        "productCategory": "Söll",
+        "localThumb": "/assets/images/hersteller/soell.webp"
+    },
+    {
+        "key": "europet bernina",
+        "name": "Europet Bernina",
+        "slug": "europet-bernina",
+        "productCategory": "Europet Bernina",
+        "localThumb": "/assets/images/hersteller/europet-bernina.webp"
     }
 ]
