@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "allesf\u00fcrdietiere.de",
+    "hostname": "https://www.allesf\u00fcrdietiere.de/",
+    "email": "allesf\u00fcrdietiere.desurrealnetworks.io",
+    "organization": "allesf\u00fcrdietiere.de",
+    "logoText": "Allesf\u00fcrdietiere.de",
+    "title": "Tierbedarf",
+    "subline": "Der Online Shop f\u00fcr Tierbedarf",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "8198459",
+        "7766777",
+        "4239398",
+        "8523326",
+        "8523789",
+        "1608215"
+    ],
+    "winnerProducts": [
+        "3526746",
+        "8520157",
+        "8523326"
+    ],
+    "featuredCategories": [
+        "Wildvogelfutter",
+        "K\u00e4figzubeh\u00f6r",
+        "Kleintierstreu",
+        "Vogelh\u00e4user",
+        "Aquarientechnik",
+        "Katzenbedarf"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Tierbedarf",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Shop finden Sie alles, was Sie f\u00fcr Ihr Tier ben\u00f6tigen. Wir f\u00fchren ein breites Sortiment an Futtermitteln, Zubeh\u00f6r und Pflegeprodukten. Unsere Mitarbeiter sind fachkundig und beraten Sie gerne.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Tierbedarf: Alles f\u00fcr Ihr Haustier",
+            "metaDescription": "Der Online-Shop f\u00fcr Tierbedarf bietet alles, was Haustierbesitzer f\u00fcr die Pflege ihrer Tiere ben\u00f6tigen. Von Futter und Pflegeprodukten bis zu Spielzeug und Zubeh\u00f6r finden Sie alles, was Sie f\u00fcr Ihr Haustier brauchen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Tierbedarf - alles f\u00fcr Ihr Haustier",
+                    "text": "Tierbedarf ist ein wichtiger Aspekt des Tierhaltens. Es gibt viele verschiedene Arten von Tierbedarf, die f\u00fcr die unterschiedlichen Bed\u00fcrfnisse der Tiere entwickelt wurden. Zu den wichtigsten Arten von Tierbedarf geh\u00f6ren Futter, Wasser, Unterk\u00fcnfte und Zubeh\u00f6r.\n\nFutter ist eines der wichtigsten Bed\u00fcrfnisse eines Tieres. Es gibt verschiedene Arten von Futtermitteln, die f\u00fcr die unterschiedlichen Bed\u00fcrfnisse der Tiere entwickelt wurden. Futtermittel k\u00f6nnen aus pflanzlichen oder tierischen Quellen stammen. Pflanzliche Futtermittel sind h\u00e4ufig billiger als tierische Futtermittel, aber sie haben nicht immer die N\u00e4hrstoffe, die Tiere ben\u00f6tigen. Tierische Futtermittel sind in der Regel teurer, aber sie enthalten die N\u00e4hrstoffe, die Tiere ben\u00f6tigen.\n\nWasser ist ebenfalls ein wichtiges Bed\u00fcrfnis f\u00fcr Tiere. Wasser kann aus nat\u00fcrlichen Quellen wie B\u00e4chen, Seen oder Fl\u00fcssen stammen, aber es kann auch aus k\u00fcnstlichen Quellen wie Brunnen oder Leitungen stammen. Tiere ben\u00f6tigen Wasser, um zu trinken, zu baden und sich zu reinigen.\n\nUnterk\u00fcnfte sind ein weiteres wichtiges Bed\u00fcrfnis f\u00fcr Tiere. Unterk\u00fcnfte k\u00f6nnen aus nat\u00fcrlichen Materialien wie Holz, Stein oder Lehm gebaut werden, aber sie k\u00f6nnen auch aus k\u00fcnstlichen Materialien wie Metall oder Kunststoff gebaut werden. Unterk\u00fcnfte m\u00fcssen den Bed"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Tierbedarf Shop",
+            "metaDescription": "Der Shop f\u00fcr Tierbedarf bietet alles, was Haustierbesitzer brauchen. Von Futter und Pflegeprodukten bis zu Spielzeug und Zubeh\u00f6r - hier findest du alles f\u00fcr dein Haustier.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Hersteller von Tierbedarf",
+            "metaDescription": "Finde den perfekten Tierbedarf f\u00fcr dein Haustier bei uns. Wir sind ein f\u00fchrender Hersteller und bieten eine gro\u00dfe Auswahl an Produkten f\u00fcr Hunde, Katzen, V\u00f6gel und andere Tiere.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT - Tierbedarf f\u00fcr Ihr Haustier",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Tierbedarf f\u00fcr Hunde, Katzen, Kleintiere, Pferde und V\u00f6gel. $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Alles f\u00fcr dein Tier",
+        "defaultMetaDescription": "$KATEGORIE: Alles f\u00fcr dein Haustier! Hundebetten, Katzenk\u00f6rbe, N\u00e4pfe & mehr. Jetzt online bestellen bei ZooRoyal.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr Online-Shop f\u00fcr alles rund um das Tier: Futter, Zubeh\u00f6r und mehr. Schnelle Lieferung und kompetente Beratung!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Tierbedarf",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Tierbedarf Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Tierbedarf Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
