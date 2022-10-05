@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/kies-u-sand", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/sina-aquarienkies-mittel-2-3-mm-25-kg-kies-u-sand-3566296-1.jpg":"\u002Fassets\u002Fimages\u002Fsina-aquarienkies-mittel-2-3-mm-25-kg-kies-u-sand-3566296-1.webp"}}],fetch:{},mutations:void 0});

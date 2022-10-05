@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/aquarien-dekosteine", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/nuber-premium-lavastein-15-cm-20-cm-nuber-7652670-1.jpg":"\u002Fassets\u002Fimages\u002Fnuber-premium-lavastein-15-cm-20-cm-nuber-7652670-1.webp"}}],fetch:{},mutations:void 0});

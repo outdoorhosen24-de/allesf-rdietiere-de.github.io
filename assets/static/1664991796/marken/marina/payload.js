@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/marina", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/marina-vollglasbecken-120-cm-x-40-cm-x-50-cm-transparent-240-l-marina-8383127-1.jpg":"\u002Fassets\u002Fimages\u002Fmarina-vollglasbecken-120-cm-x-40-cm-x-50-cm-transparent-240-l-marina-8383127-1.webp"}}],fetch:{},mutations:void 0});

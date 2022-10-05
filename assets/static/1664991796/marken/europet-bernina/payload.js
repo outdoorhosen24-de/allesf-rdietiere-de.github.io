@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/europet-bernina", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ebi-dekor-backsteintor-17-cm-x-133-cm-x-15-cm-europet-bernina-1608215-1.jpg":"\u002Fassets\u002Fimages\u002Febi-dekor-backsteintor-17-cm-x-133-cm-x-15-cm-europet-bernina-1608215-1.webp"}}],fetch:{},mutations:void 0});
