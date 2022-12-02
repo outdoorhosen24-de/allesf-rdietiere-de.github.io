@@ -51,12 +51,15 @@
             "title": "Tierbedarf: Alles für Ihr Haustier",
             "metaDescription": "Der Online-Shop für Tierbedarf bietet alles, was Haustierbesitzer für die Pflege ihrer Tiere benötigen. Von Futter und Pflegeprodukten bis zu Spielzeug und Zubehör finden Sie alles, was Sie für Ihr Haustier brauchen.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Tierbedarf - alles für Ihr Haustier",
-                    "text": "Tierbedarf ist ein wichtiger Aspekt des Tierhaltens. Es gibt viele verschiedene Arten von Tierbedarf, die für die unterschiedlichen Bedürfnisse der Tiere entwickelt wurden. Zu den wichtigsten Arten von Tierbedarf gehören Futter, Wasser, Unterkünfte und Zubehör.\n\nFutter ist eines der wichtigsten Bedürfnisse eines Tieres. Es gibt verschiedene Arten von Futtermitteln, die für die unterschiedlichen Bedürfnisse der Tiere entwickelt wurden. Futtermittel können aus pflanzlichen oder tierischen Quellen stammen. Pflanzliche Futtermittel sind häufig billiger als tierische Futtermittel, aber sie haben nicht immer die Nährstoffe, die Tiere benötigen. Tierische Futtermittel sind in der Regel teurer, aber sie enthalten die Nährstoffe, die Tiere benötigen.\n\nWasser ist ebenfalls ein wichtiges Bedürfnis für Tiere. Wasser kann aus natürlichen Quellen wie Bächen, Seen oder Flüssen stammen, aber es kann auch aus künstlichen Quellen wie Brunnen oder Leitungen stammen. Tiere benötigen Wasser, um zu trinken, zu baden und sich zu reinigen.\n\nUnterkünfte sind ein weiteres wichtiges Bedürfnis für Tiere. Unterkünfte können aus natürlichen Materialien wie Holz, Stein oder Lehm gebaut werden, aber sie können auch aus künstlichen Materialien wie Metall oder Kunststoff gebaut werden. Unterkünfte müssen den Bed"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Tierbedarf - alles für Ihr Haustier",
+                        "text": "Tierbedarf ist ein wichtiger Aspekt des Tierhaltens. Es gibt viele verschiedene Arten von Tierbedarf, die für die unterschiedlichen Bedürfnisse der Tiere entwickelt wurden. Zu den wichtigsten Arten von Tierbedarf gehören Futter, Wasser, Unterkünfte und Zubehör.\n\nFutter ist eines der wichtigsten Bedürfnisse eines Tieres. Es gibt verschiedene Arten von Futtermitteln, die für die unterschiedlichen Bedürfnisse der Tiere entwickelt wurden. Futtermittel können aus pflanzlichen oder tierischen Quellen stammen. Pflanzliche Futtermittel sind häufig billiger als tierische Futtermittel, aber sie haben nicht immer die Nährstoffe, die Tiere benötigen. Tierische Futtermittel sind in der Regel teurer, aber sie enthalten die Nährstoffe, die Tiere benötigen.\n\nWasser ist ebenfalls ein wichtiges Bedürfnis für Tiere. Wasser kann aus natürlichen Quellen wie Bächen, Seen oder Flüssen stammen, aber es kann auch aus künstlichen Quellen wie Brunnen oder Leitungen stammen. Tiere benötigen Wasser, um zu trinken, zu baden und sich zu reinigen.\n\nUnterkünfte sind ein weiteres wichtiges Bedürfnis für Tiere. Unterkünfte können aus natürlichen Materialien wie Holz, Stein oder Lehm gebaut werden, aber sie können auch aus künstlichen Materialien wie Metall oder Kunststoff gebaut werden. Unterkünfte müssen den Bed"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Tierbedarf Shop",
