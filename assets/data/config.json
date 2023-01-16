@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "allesfürdietiere.de",
     "hostname": "https://www.allesfürdietiere.de/",
     "email": "allesfürdietiere.de@surrealnetworks.io",
     "organization": "allesfürdietiere.de",
     "logoText": "Allesfürdietiere.de",
     "title": "Tierbedarf",
-    "subline": "Der Online Shop für Tierbedarf",
+    "subline": "Der Online-Shop für jeden Tierbesitzer",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Tierbedarf",
-        "featureText": "In unserem Shop finden Sie alles, was Sie für Ihr Tier benötigen. Wir führen ein breites Sortiment an Futtermitteln, Zubehör und Pflegeprodukten. Unsere Mitarbeiter sind fachkundig und beraten Sie gerne.",
+        "featureText": "Bei uns finden Sie eine riesige Auswahl an Produkten, die bei jeglicher Art von Tierhaltung erforderlich werden können. Dazu zählen beispielsweise Futtermittel, Pflege- & Hygieneprodukte, Hilfsmittel und Vieles mehr. Bei all unseren Produkten handelt es sich um Qualitätsprodukte. Klicken Sie sich gerne einmal durch unser Sortiment.  ",
         "index": {
-            "title": "Tierbedarf: Alles für Ihr Haustier",
-            "metaDescription": "Der Online-Shop für Tierbedarf bietet alles, was Haustierbesitzer für die Pflege ihrer Tiere benötigen. Von Futter und Pflegeprodukten bis zu Spielzeug und Zubehör finden Sie alles, was Sie für Ihr Haustier brauchen.",
+            "title": "Tierbedarf - einfach online bestellen",
+            "metaDescription": "Ein Online-Shop für jegliches Tierbedarf - Futtermittel, Pflege- und Hygieneprodukte und Vieles mehr einfach online bestellen!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Tierbedarf Shop",
-            "metaDescription": "Der Shop für Tierbedarf bietet alles, was Haustierbesitzer brauchen. Von Futter und Pflegeprodukten bis zu Spielzeug und Zubehör - hier findest du alles für dein Haustier.",
+            "title": "Tierbedarf - Shop",
+            "metaDescription": "Ein Online-Shop für jegliches Tierbedarf. Breites Sortiment an Qualitätsprodukten. Einfach online bestellen, was ihr Haustier benötigt!",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Hersteller von Tierbedarf",
-            "metaDescription": "Finde den perfekten Tierbedarf für dein Haustier bei uns. Wir sind ein führender Hersteller und bieten eine große Auswahl an Produkten für Hunde, Katzen, Vögel und andere Tiere.",
+            "metaDescription": "Bei uns finden Sie Tierbedarf von marktführenden Herstellern, wie zum Beispiel Biokat´s, Jollypaw, Trixie und Viele weitere.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT - Tierbedarf für Ihr Haustier",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Tierbedarf für Hunde, Katzen, Kleintiere, Pferde und Vögel. $KATEGORIE.",
+        "defaultTitle": "$PRODUKT - online bestellen",
+        "defaultMetaDescription": "Wählen Sie weitere Tierbedarf-Produkte wie $PRODUKT, von diversen Marken wie $HERSTELLER aus verschiedenen Kategorien wie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Alles für dein Tier",
-        "defaultMetaDescription": "$KATEGORIE: Alles für dein Haustier! Hundebetten, Katzenkörbe, Näpfe & mehr. Jetzt online bestellen bei ZooRoyal.",
+        "defaultTitle": "$KATEGORIE - eine riesige Auswahl",
+        "defaultMetaDescription": "$KATEGORIE: Alles für Ihr Haustier! Futtermittel , Pflege- und Hygieneprodukte und Vieles mehr. Für Hund, Katze, Vogel, Nager, Fisch usw. ",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr Online-Shop für alles rund um das Tier: Futter, Zubehör und mehr. Schnelle Lieferung und kompetente Beratung!",
+        "defaultTitle": "$HERSTELLER - Markenprodukte zum günstigen Preis",
+        "defaultMetaDescription": "$HERSTELLER und viele weitere Marken in unserem Online-Shop. Qualitätsprodukte für Ihr Haustier zum günstigen Preis. Einfach online bestellen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
