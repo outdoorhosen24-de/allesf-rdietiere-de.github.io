@@ -9,7 +9,7 @@
     {
         "key": "wildvögel",
         "name": "Wildvögel",
-        "slug": "wildvogel",
+        "slug": "wildvoegel",
         "productCategory": "Wildvögel",
         "subCategories": []
     },
@@ -23,7 +23,7 @@
     {
         "key": "vogelhäuser",
         "name": "Vogelhäuser",
-        "slug": "vogelhauser",
+        "slug": "vogelhaeuser",
         "productCategory": "Vogelhäuser",
         "subCategories": []
     },
@@ -79,7 +79,7 @@
     {
         "key": "nagerställe",
         "name": "Nagerställe",
-        "slug": "nagerstalle",
+        "slug": "nagerstaelle",
         "productCategory": "Nagerställe",
         "subCategories": []
     },
@@ -114,7 +114,7 @@
     {
         "key": "aquarien-belüfter",
         "name": "Aquarien-Belüfter",
-        "slug": "aquarien-belufter",
+        "slug": "aquarien-beluefter",
         "productCategory": "Aquarien-Belüfter",
         "subCategories": []
     },
@@ -163,14 +163,14 @@
     {
         "key": "hundefahrradkörbe & hundeanhänger",
         "name": "Hundefahrradkörbe & Hundeanhänger",
-        "slug": "hundefahrradkorbe-hundeanhanger",
+        "slug": "hundefahrradkoerbe-hundeanhaenger",
         "productCategory": "Hundefahrradkörbe & Hundeanhänger",
         "subCategories": []
     },
     {
         "key": "hühnerställe",
         "name": "Hühnerställe",
-        "slug": "huhnerstalle",
+        "slug": "huehnerstaelle",
         "productCategory": "Hühnerställe",
         "subCategories": []
     },
@@ -205,14 +205,14 @@
     {
         "key": "bodengrund für aquarien",
         "name": "Bodengrund für Aquarien",
-        "slug": "bodengrund-fur-aquarien",
+        "slug": "bodengrund-fuer-aquarien",
         "productCategory": "Bodengrund für Aquarien",
         "subCategories": []
     },
     {
         "key": "nistkästen",
         "name": "Nistkästen",
-        "slug": "nistkasten",
+        "slug": "nistkaesten",
         "productCategory": "Nistkästen",
         "subCategories": []
     },
@@ -261,7 +261,7 @@
     {
         "key": "sicherheitsnetze für katzen",
         "name": "Sicherheitsnetze für Katzen",
-        "slug": "sicherheitsnetze-fur-katzen",
+        "slug": "sicherheitsnetze-fuer-katzen",
         "productCategory": "Sicherheitsnetze für Katzen",
         "subCategories": []
     },
@@ -275,7 +275,7 @@
     {
         "key": "kratzbäume & kratzmöbel",
         "name": "Kratzbäume & Kratzmöbel",
-        "slug": "kratzbaume-kratzmobel",
+        "slug": "kratzbaeume-kratzmoebel",
         "productCategory": "Kratzbäume & Kratzmöbel",
         "subCategories": []
     },
@@ -289,7 +289,7 @@
     {
         "key": "käfigzubehör",
         "name": "Käfigzubehör",
-        "slug": "kafigzubehor",
+        "slug": "kaefigzubehoer",
         "productCategory": "Käfigzubehör",
         "subCategories": []
     },
@@ -317,14 +317,14 @@
     {
         "key": "terrariumzubehör",
         "name": "Terrariumzubehör",
-        "slug": "terrariumzubehor",
+        "slug": "terrariumzubehoer",
         "productCategory": "Terrariumzubehör",
         "subCategories": []
     },
     {
         "key": "aquarienbeleuchtung zubehör",
         "name": "Aquarienbeleuchtung Zubehör",
-        "slug": "aquarienbeleuchtung-zubehor",
+        "slug": "aquarienbeleuchtung-zubehoer",
         "productCategory": "Aquarienbeleuchtung Zubehör",
         "subCategories": []
     },
@@ -338,7 +338,7 @@
     {
         "key": "aquariumzubehör",
         "name": "Aquariumzubehör",
-        "slug": "aquariumzubehor",
+        "slug": "aquariumzubehoer",
         "productCategory": "Aquariumzubehör",
         "subCategories": []
     },
@@ -352,7 +352,7 @@
     {
         "key": "dekofiguren für aquarien",
         "name": "Dekofiguren für Aquarien",
-        "slug": "dekofiguren-fur-aquarien",
+        "slug": "dekofiguren-fuer-aquarien",
         "productCategory": "Dekofiguren für Aquarien",
         "subCategories": []
     }
