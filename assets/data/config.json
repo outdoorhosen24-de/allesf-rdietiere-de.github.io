@@ -1,368 +1,371 @@
 {
-    "configIsReady": true,
-    "domain": "allesfürdietiere.de",
-    "hostname": "https://www.allesfürdietiere.de/",
-    "email": "allesfürdietiere.de@surrealnetworks.io",
-    "organization": "allesfürdietiere.de",
-    "logoText": "Allesfürdietiere.de",
-    "title": "Tierbedarf",
-    "subline": "Der Online-Shop für jeden Tierbesitzer",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "8198459",
-        "7766777",
-        "4239398",
-        "8523326",
-        "8523789",
-        "1608215"
-    ],
-    "winnerProducts": [
-        "3526746",
-        "8520157",
-        "8523326"
-    ],
-    "featuredCategories": [
-        "Wildvogelfutter",
-        "Käfigzubehör",
-        "Kleintierstreu",
-        "Vogelhäuser",
-        "Aquarientechnik",
-        "Katzenbedarf"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Tierbedarf",
-        "featureText": "Bei uns finden Sie eine riesige Auswahl an Produkten, die bei jeglicher Art von Tierhaltung erforderlich werden können. Dazu zählen beispielsweise Futtermittel, Pflege- & Hygieneprodukte, Hilfsmittel und Vieles mehr. Bei all unseren Produkten handelt es sich um Qualitätsprodukte. Klicken Sie sich gerne einmal durch unser Sortiment.  ",
-        "index": {
-            "title": "Tierbedarf - einfach online bestellen",
-            "metaDescription": "Ein Online-Shop für jegliches Tierbedarf - Futtermittel, Pflege- und Hygieneprodukte und Vieles mehr einfach online bestellen!",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei allesfürdietiere.de - Ihrem Online-Shop für Tierbedarf",
-                        "text": "Herzlich willkommen auf allesfürdietiere.de, Ihrem Online-Shop für Tierbedarf. Bei uns finden Sie alles, was Sie für Ihre Tiere benötigen, egal ob Vogel, Kleintier oder Katze. Von Vogelhäusern über Vogelfutterspender bis hin zu Katzenstreu bieten wir eine große Auswahl an qualitativ hochwertigen Produkten zu günstigen Preisen. Überzeugen Sie sich selbst von unserem umfangreichen Sortiment und bestellen Sie bequem von zu Hause aus. Bei Fragen steht Ihnen unser kompetentes Team gerne zur Verfügung. Wir freuen uns auf Ihren Einkauf bei allesfürdietiere.de."
-                    },
-                    {
-                        "title": "Vogelbedarf für Ihre gefiederten Freunde",
-                        "text": "In unserer Kategorie Vogelbedarf finden Sie alles, was Sie für Ihre gefiederten Freunde benötigen. Von Vogelfutterspendern über Vogelhäuser bis hin zu Vogelfutter. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten zu günstigen Preisen. Überzeugen Sie sich selbst und entdecken Sie die Welt des Vogelbedarfs bei allesfürdietiere.de."
-                    },
-                    {
-                        "title": "Wildvögel - ein Teil der Natur",
-                        "text": "Mit unserer Kategorie Wildvögel möchten wir Ihnen einen Einblick in die Welt der Wildvögel geben. Hier finden Sie alles, was Sie für die Fütterung und Pflege Ihrer gefiederten Gartenbewohner benötigen. Von Vogelfutterspendern bis hin zu Vogelhäusern. Lassen Sie sich inspirieren und entdecken Sie die Vielfalt der Wildvögel bei allesfürdietiere.de."
-                    },
-                    {
-                        "title": "Vogelfutterspender - eine praktische Lösung",
-                        "text": "Mit unseren Vogelfutterspendern können Sie Ihren gefiederten Freunden eine ständige Futterquelle bieten. Unsere Vogelfutterspender sind robust und langlebig und eignen sich für die Verwendung im Freien. Entdecken Sie die Vorteile unserer Vogelfutterspender und sorgen Sie für eine zuverlässige Futterversorgung Ihrer Vögel bei allesfürdietiere.de."
-                    },
-                    {
-                        "title": "Vogelhäuser",
-                        "text": "Bieten Sie Ihren Vögeln ein Zuhause für ihre Nester mit unseren <a href=\"/kategorie/vogelhaeuser/\" title=\"Vogelhäuser\">Vogelhäuser</a>n. Wir haben eine große Auswahl an Vogelhäusern in verschiedenen Größen und Designs, um jedem Vogel das perfekte Zuhause zu bieten. Unsere Vogelhäuser sind aus hochwertigen Materialien gefertigt und bieten Schutz vor Wettereinflüssen und Feinden. Stöbern Sie jetzt durch unser Sortiment und finden Sie das perfekte Vogelhaus für Ihren Garten."
-                    },
-                    {
-                        "title": "Kleintierbedarf",
-                        "text": "Pflegen Sie Ihre Kleintiere mit unserem umfassenden Sortiment an <a href=\"/kategorie/kleintierbedarf/\" title=\"Kleintierbedarf\">Kleintierbedarf</a>. Wir bieten alles, was Sie für die Pflege Ihrer Tiere benötigen, von Käfigen und Futter bis hin zu Spielzeug und Pflegeprodukten. Unsere Produkte sind auf die Bedürfnisse Ihrer Tiere abgestimmt und bieten maximale Komfort und Sicherheit. Stöbern Sie jetzt durch unser Sortiment und finden Sie alles, was Sie für die Pflege Ihrer Kleintiere benötigen."
-                    },
-                    {
-                        "title": "Freilaufgehege",
-                        "text": "Bieten Sie Ihren Kleintieren einen sicheren Freilauf mit unseren <a href=\"/kategorie/freilaufgehege/\" title=\"Freilaufgehege\">Freilaufgehege</a>n. Wir haben eine große Auswahl an Freilaufgehegen in verschiedenen Größen und Designs, um jedem Tier den perfekten Freiraum zu bieten. Unsere Freilaufgehege sind aus hochwertigen Materialien gefertigt und bieten Schutz vor Feinden und gefährlichen Situationen. Stöbern Sie jetzt durch unser Sortiment und finden Sie das perfekte Freilaufgehege für Ihre Tiere."
-                    },
-                    {
-                        "title": "Katzenbedarf",
-                        "text": "Unser Online-Shop bietet Ihnen eine große Auswahl an hochwertigen Produkten für Ihre Katzen. Von Spielzeug und Kratzbäumen bis hin zu Futternäpfen und Transportboxen finden Sie alles, was Ihre Samtpfote glücklich macht. Wir legen besonderen Wert auf Qualität und Funktionalität, damit Sie und Ihre Katze lange Freude an unseren Produkten haben. Stöbern Sie jetzt in unserem <a href=\"/kategorie/katzenbedarf/\" title=\"Katzenbedarf\">Katzenbedarf</a>-Sortiment!"
-                    },
-                    {
-                        "title": "Katzenstreu",
-                        "text": "Eine hygienische und angenehme Toilette ist für jede Katze wichtig. Deshalb bieten wir Ihnen eine große Auswahl an hochwertigen <a href=\"/kategorie/katzenstreu/\" title=\"Katzenstreu\">Katzenstreu</a>-Produkten. Ob Klumpstreu oder Naturstreu, bei uns finden Sie garantiert das Richtige für Ihre Katze. Wir legen Wert auf lange Haltbarkeit und gute Saugfähigkeit, damit Sie möglichst wenig Arbeit mit der Reinigung der Katzentoilette haben. Stöbern Sie jetzt in unserem Sortiment an Katzenstreu-Produkten!"
-                    },
-                    {
-                        "title": "Klumpstreu",
-                        "text": "<a href=\"/kategorie/klumpstreu/\" title=\"Klumpstreu\">Klumpstreu</a> bietet viele Vorteile für Katzenbesitzer. Es verhindert unangenehme Gerüche, ist einfach zu reinigen und langlebig. In unserem Online-Shop finden Sie eine große Auswahl an hochwertigen Klumpstreu-Produkten, die alle diese Vorteile bieten. Ob geruchsneutral oder mit Duftstoffen, bei uns finden Sie garantiert das Richtige für Ihre Katze. Stöbern Sie jetzt in unserem Sortiment und entdecken Sie die Vorteile von Klumpstreu für sich und Ihre Katze!"
-                    },
-                    {
-                        "title": "Vogelfutter",
-                        "text": "Unser Online-Shop bietet Ihnen eine große Auswahl an <a href=\"/kategorie/vogelfutter/\" title=\"Vogelfutter\">Vogelfutter</a> für alle Arten von Vögeln. Ob kleine Singvögel oder große Wildvögel, bei uns finden Sie das passende Futter für Ihre gefiederten Freunde. Alle Produkte sind von höchster Qualität und garantieren eine ausgewogene Ernährung für Ihre Vögel."
-                    },
-                    {
-                        "title": "Wildvogelfutter",
-                        "text": "Unser Online-Shop bietet auch <a href=\"/kategorie/wildvogelfutter/\" title=\"Wildvogelfutter\">Wildvogelfutter</a> für alle Arten von Wildvögeln. Die Auswahl an Wildvogelfutter beinhaltet hochwertige Produkte, die eine ausgewogene Ernährung für Wildvögel garantieren. Stöbern Sie durch unser Angebot und finden Sie das passende Futter für Ihre Wildvögel."
-                    },
-                    {
-                        "title": "Nagerställe",
-                        "text": "In unserem Online-Shop bieten wir Ihnen auch <a href=\"/kategorie/nagerstaelle/\" title=\"Nagerställe\">Nagerställe</a> für Ihre kleinen Haustiere. Unsere Nagerställe sind robust und langlebig, um den Bedürfnissen Ihrer Tiere gerecht zu werden. Stöbern Sie durch unser Angebot und finden Sie den perfekten Stall für Ihre Nager."
-                    },
-                    {
-                        "title": "Katzenhygiene & Katzengesundheit",
-                        "text": "Katzenhygiene und Katzengesundheit sind ein wichtiger Bestandteil des täglichen Lebens Ihrer geliebten Haustiere. In unserem Online-Shop für Tierbedarf bieten wir eine große Auswahl an Produkten, die Ihnen dabei helfen, Ihre Katzen gesund und sauber zu halten. Von Pflegeprodukten für das Fell und die Augen bis hin zu hygienischen Lösungen für das Katzenklo – bei uns finden Sie alles, was Sie benötigen, um Ihre Katzen gesund und glücklich zu halten."
-                    },
-                    {
-                        "title": "Katzenklos & Katzentoiletten",
-                        "text": "Ein sauberes und hygienisches Katzenklo ist für das Wohlbefinden Ihrer Katze von großer Bedeutung. Bei uns finden Sie eine große Auswahl an Katzentoiletten, die sich optimal für Ihr Zuhause eignen. Ob Sie ein klassisches Katzenklo, eine Katzentoilette mit Filter oder ein modulares System bevorzugen – wir bieten Ihnen eine große Auswahl an Produkten, die Ihnen und Ihrer Katze garantiert gefallen werden."
-                    },
-                    {
-                        "title": "Aquaristik",
-                        "text": "<a href=\"/kategorie/aquaristik/\" title=\"Aquaristik\">Aquaristik</a> ist eine faszinierende und entspannende Tätigkeit, bei der Sie eine eigene kleine Welt im Wasser schaffen können. In unserem Online-Shop für Tierbedarf bieten wir eine große Auswahl an Produkten für die Aquaristik, damit Sie Ihre eigene Unterwasserwelt gestalten können. Von Aquarien und Zubehör bis hin zu Fischfutter und Wasserpflegeprodukten – bei uns finden Sie alles, was Sie für Ihr Aquarium benötigen."
-                    },
-                    {
-                        "title": "Aquarientechnik",
-                        "text": "Im Online-Shop allesfürdietiere.de finden Sie eine große Auswahl an <a href=\"/kategorie/aquarientechnik/\" title=\"Aquarientechnik\">Aquarientechnik</a> für Ihr Aquarium. Unsere Produkte sind von höchster Qualität und garantieren Ihnen eine lange Lebensdauer. Ob Sie eine neue Pumpe benötigen, einen Belüfter oder ein anderes Gerät, wir haben alles, was Sie brauchen, um Ihr Aquarium in Topform zu halten. Stöbern Sie durch unsere Produkte und entdecken Sie, wie Sie Ihr Aquarium noch mehr verbessern können."
-                    },
-                    {
-                        "title": "Aquarien-Belüfter",
-                        "text": "Ein wichtiger Bestandteil jedes Aquariums ist ein Belüfter. Bei allesfürdietiere.de finden Sie eine große Auswahl an <a href=\"/kategorie/aquarien-beluefter/\" title=\"Aquarien-Belüfter\">Aquarien-Belüfter</a>n, die die Wasserqualität in Ihrem Aquarium verbessern und die Gesundheit Ihrer Fische und Pflanzen fördern. Wir bieten Belüfter in verschiedenen Größen und Leistungen, so dass Sie das perfekte Gerät für Ihr Aquarium finden können. Überzeugen Sie sich selbst von unseren Produkten und bestellen Sie noch heute."
-                    },
-                    {
-                        "title": "Aquarium Pumpen",
-                        "text": "Für ein gesundes und funktionierendes Aquarium sind Pumpen unverzichtbar. Bei allesfürdietiere.de finden Sie eine große Auswahl an <a href=\"/kategorie/aquarium-pumpen/\" title=\"Aquarium Pumpen\">Aquarium Pumpen</a>, die Ihnen eine optimale Wasserzirkulation und eine gleichmäßige Verteilung von Nährstoffen und Sauerstoff im Aquarium garantieren. Unsere Pumpen sind einfach zu installieren und zu bedienen und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt unser Sortiment an Aquarium Pumpen und bestellen Sie noch heute."
-                    },
-                    {
-                        "title": "Kleintierstreu für eine hygienische Tierhaltung",
-                        "text": "In unserer Kategorie Kleintierstreu finden Sie eine große Auswahl an hochwertigen Streuoptionen für Ihre Kleintiere. Von Klumpstreu bis hin zu ergänzenden Reinigungsprodukten bieten wir Ihnen alles, was Sie für eine hygienische Tierhaltung benötigen. Überzeugen Sie sich selbst von unserem umfangreichen Angebot."
-                    },
-                    {
-                        "title": "Katzenfutter für eine ausgewogene Ernährung",
-                        "text": "In unserer Kategorie Katzenfutter finden Sie eine große Auswahl an hochwertigen Futtermitteln für Ihre Katze. Von Trockenfutter bis hin zu Nassfutter bieten wir Ihnen alles, was Sie für eine ausgewogene Ernährung Ihres Tieres benötigen. Überzeugen Sie sich selbst von unserem umfangreichen Angebot."
-                    },
-                    {
-                        "title": "Katzengras für eine gesunde Verdauung",
-                        "text": "In unserer Kategorie Katzengras finden Sie eine große Auswahl an hochwertigen Grasprodukten für Ihre Katze. Unser Katzengras unterstützt eine gesunde Verdauung und kann bei Verdauungsproblemen eine Linderung bringen. Überzeugen Sie sich selbst von unserem umfangreichen Angebot."
-                    },
-                    {
-                        "title": "Hundebedarf",
-                        "text": "Bei Alles für die Tiere finden Sie alles, was Sie für den optimalen Komfort Ihres Hundes benötigen. Unser <a href=\"/kategorie/hundebedarf/\" title=\"Hundebedarf\">Hundebedarf</a>-Sortiment bietet Ihnen eine große Auswahl an qualitativ hochwertigen Produkten für Ihren Vierbeiner. Von Hundebetten über Hundespielzeug bis hin zu Hundeleinen und Halsbändern - bei uns werden Sie fündig. Überzeugen Sie sich selbst von unserem Angebot und gönnen Sie Ihrem Hund das Beste!"
-                    },
-                    {
-                        "title": "Hundetransport",
-                        "text": "Egal, ob Sie mit Ihrem Hund verreisen möchten oder ihn sicher und bequem von A nach B transportieren wollen - bei uns finden Sie das passende <a href=\"/kategorie/hundetransport/\" title=\"Hundetransport\">Hundetransport</a>-System. Wir bieten Ihnen eine große Auswahl an hochwertigen Hundetransportboxen, Hundeanhängern und Hundebuggys. Jedes Produkt wurde sorgfältig ausgewählt, um Ihrem Hund eine sichere und komfortable Fahrt zu ermöglichen."
-                    },
-                    {
-                        "title": "Hundefahrradkörbe & Hundeanhänger",
-                        "text": "Machen Sie mit Ihrem Hund gemeinsame Radtouren und entdecken Sie die Umgebung aus einer neuen Perspektive. Unsere Hundefahrradkörbe und Hundeanhänger bieten Ihrem Vierbeiner eine bequeme und sichere Fahrt. Wir haben für jeden Bedarf das passende Produkt, ob für kleine oder große Hunde. Überzeugen Sie sich von unserem Angebot und erleben Sie gemeinsame Abenteuer mit Ihrem Hund."
-                    },
-                    {
-                        "title": "Hühnerställe",
-                        "text": "Sie suchen nach einem zuverlässigen und sicheren Hühnerstall für Ihre Hühner? Dann sind Sie bei uns genau richtig! Wir bieten Ihnen eine große Auswahl an <a href=\"/kategorie/huehnerstaelle/\" title=\"Hühnerställe\">Hühnerställe</a>n in verschiedenen Größen und Ausführungen, die den Bedürfnissen Ihrer Hühner entsprechen. Unsere Hühnerställe sind aus hochwertigen Materialien gefertigt und bieten Ihren Tieren Schutz vor Witterung und Feinden. Entdecken Sie jetzt unser Sortiment und finden Sie den perfekten Hühnerstall für Ihre Tiere."
-                    },
-                    {
-                        "title": "Aquarien",
-                        "text": "Sie möchten ein Aquarium in Ihrem Zuhause einrichten? Dann sind Sie bei uns genau richtig! Wir bieten Ihnen eine große Auswahl an <a href=\"/kategorie/aquarien/\" title=\"Aquarien\">Aquarien</a> in verschiedenen Größen und Ausführungen. Ob Sie ein Einsteiger oder ein erfahrener Aquarianer sind, wir haben das passende Aquarium für Sie. Unsere Aquarien sind aus hochwertigen Materialien gefertigt und bieten eine optimale Umgebung für Ihre Fische. Entdecken Sie jetzt unser Sortiment und finden Sie das perfekte Aquarium für Ihre Fische."
-                    },
-                    {
-                        "title": "Aquarien-Kombinationen",
-                        "text": "Sie möchten ein komplettes Aquarium-Set kaufen, das alles enthält, was Sie benötigen? Dann sind Sie bei uns genau richtig! Wir bieten Ihnen eine große Auswahl an <a href=\"/kategorie/aquarien-kombinationen/\" title=\"Aquarien-Kombinationen\">Aquarien-Kombinationen</a>, die alles enthalten, was Sie für den Betrieb Ihres Aquariums benötigen. Von Aquarien über technische Geräte bis hin zu Pflanzen und Fischfutter - bei uns finden Sie alles, was Sie benötigen. Entdecken Sie jetzt unser Sortiment und finden Sie die perfekte Aquarien-Kombination für Ihre Fische."
-                    },
-                    {
-                        "title": "Nanoaquarien & Miniaquarien",
-                        "text": "Besuchen Sie unsere Kategorie <a href=\"/kategorie/nanoaquarien-miniaquarien/\" title=\"Nanoaquarien & Miniaquarien\">Nanoaquarien & Miniaquarien</a>, um das perfekte Aquarium für Ihre kleinen Fische zu finden. Wir bieten eine große Auswahl an Aquarien in verschiedenen Größen und Farben, damit Sie genau das Richtige für Ihre Bedürfnisse finden. Unsere hochwertigen Nano- und Miniaquarien eignen sich perfekt für kleine Räume und bieten eine atemberaubende Unterwasserwelt für Ihre Fische."
-                    },
-                    {
-                        "title": "Aquariumpflege",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/aquariumpflege/\" title=\"Aquariumpflege\">Aquariumpflege</a> finden Sie alles, was Sie für die Pflege Ihres Aquariums benötigen. Von Reinigungswerkzeugen bis hin zu Wasserpflegemitteln bieten wir eine große Auswahl an Produkten, die Ihnen dabei helfen, das Wasser kristallklar zu halten und Ihre Fische gesund und glücklich zu halten. Stöbern Sie jetzt durch unser Sortiment und finden Sie alles, was Sie für die perfekte Aquariumpflege benötigen."
-                    },
-                    {
-                        "title": "Bodengrund für Aquarien",
-                        "text": "Ein wichtiger Bestandteil jedes Aquariums ist der Bodengrund. In unserer Kategorie <a href=\"/kategorie/bodengrund-fuer-aquarien/\" title=\"Bodengrund für Aquarien\">Bodengrund für Aquarien</a> bieten wir eine breite Auswahl an Bodengrundarten, die dazu beitragen, das natürliche Ökosystem im Aquarium aufrechtzuerhalten. Von Kies bis hin zu speziellen Bodengrundarten für Pflanzen finden Sie bei uns genau den Bodengrund, der für Ihr Aquarium am besten geeignet ist."
-                    },
-                    {
-                        "title": "Nistkästen für Ihre Vögel",
-                        "text": "Der Online-Shop allesfürdietiere.de bietet Ihnen eine große Auswahl an <a href=\"/kategorie/nistkaesten/\" title=\"Nistkästen für Ihre Vögel\">Nistkästen für Ihre Vögel</a>. Egal ob für Meisen, Sperlinge oder andere Vogelarten - wir haben das passende Zuhause für Ihre gefiederten Freunde. Überzeugen Sie sich selbst von der hohen Qualität und Verarbeitung unserer Nistkästen. Besuchen Sie jetzt unsere Kategorie Nistkästen und entdecken Sie das ideale Zuhause für Ihre Vögel."
-                    },
-                    {
-                        "title": "Aquarium Filter für sauberes Wasser",
-                        "text": "Der Online-Shop allesfürdietiere.de bietet Ihnen eine große Auswahl an Aquarium Filtern. Egal ob Innen- oder Außenfilter, wir haben das passende Modell für Ihr Aquarium. Garantiert sauberes und gesundes Wasser für Ihre Fische - mit den hochwertigen Aquarium Filtern von allesfürdietiere.de. Besuchen Sie jetzt unsere Kategorie Aquarium Filter und entdecken Sie die vielfältigen Möglichkeiten für Ihr Aquarium."
-                    },
-                    {
-                        "title": "Aquarium Beleuchtung für eine natürliche Umgebung",
-                        "text": "Der Online-Shop allesfürdietiere.de bietet Ihnen eine große Auswahl an Aquarium Beleuchtungen. Egal ob LED, T5 oder T8 - wir haben das passende Modell für Ihr Aquarium. Schaffen Sie Ihren Fischen eine natürliche Umgebung und garantieren Sie ihnen eine ausreichende Beleuchtung. Besuchen Sie jetzt unsere Kategorie Aquarium Beleuchtung und entdecken Sie die vielfältigen Möglichkeiten für Ihr Aquarium."
-                    },
-                    {
-                        "title": "Aquarienglasbecken",
-                        "text": "Entdecken Sie bei Allesfürdietiere eine große Auswahl an <a href=\"/kategorie/aquarienglasbecken/\" title=\"Aquarienglasbecken\">Aquarienglasbecken</a> für Ihr Zuhause. Ob Sie ein erfahrener Aquarianer oder neu in der Welt der Aquarien sind, wir bieten Ihnen hochwertige und langlebige Aquarienglasbecken in verschiedenen Größen und Formen, um Ihren Anforderungen gerecht zu werden. Verleihen Sie Ihrem Aquarium ein neues Leben und wählen Sie aus unserer breiten Palette an Aquarienglasbecken."
-                    },
-                    {
-                        "title": "Aquarien-Komplettsets",
-                        "text": "Allesfürdietiere bietet eine breite Auswahl an <a href=\"/kategorie/aquarien-komplettsets/\" title=\"Aquarien-Komplettsets\">Aquarien-Komplettsets</a> für alle, die in die Welt der Aquarien einsteigen möchten. Unsere Sets enthalten alles, was Sie benötigen, um Ihr eigenes Aquarium einzurichten, inklusive Aquarienglasbecken, Filter, Beleuchtung und weiteren wichtigen Komponenten. Unsere erfahrenen Mitarbeiter stehen Ihnen jederzeit zur Verfügung, um Ihnen bei der Auswahl des perfekten Sets für Ihre Bedürfnisse zu helfen."
-                    },
-                    {
-                        "title": "Aquarium Dekoration",
-                        "text": "Verleihen Sie Ihrem Aquarium den perfekten Touch mit unserer breiten Auswahl an Aquarium-Dekorationen bei Allesfürdietiere. Wir haben eine große Auswahl an hochwertigen und langlebigen Aquarium-Dekorationen, einschließlich Steinen, Wurzeln, Pflanzen und vielem mehr, um Ihrem Aquarium eine natürliche Umgebung zu geben. Durch unsere sorgfältig ausgewählte Palette an Aquarium-Dekorationen können Sie Ihr Aquarium nach Ihren Wünschen gestalten."
-                    },
-                    {
-                        "title": "Aquarien-Dekosteine",
-                        "text": "Geben Sie Ihrem Aquarium eine ganz besondere Note mit den <a href=\"/kategorie/aquarien-dekosteine/\" title=\"Aquarien-Dekosteine\">Aquarien-Dekosteine</a>n von Alles für die Tiere. Hier finden Sie eine große Auswahl an unterschiedlichen Formen und Farben, um das optische Erscheinungsbild Ihres Aquariums nach Ihren Wünschen zu gestalten. Ob als natürliches Riff oder futuristische Landschaft, mit den Aquarien-Dekosteinen können Sie kreativ werden."
-                    },
-                    {
-                        "title": "Sicherheitsnetze für Katzen",
-                        "text": "Schützen Sie Ihre Katze vor Unfällen und geben Sie ihr gleichzeitig Freiraum mit den Sicherheitsnetzen von Alles für die Tiere. Ob Balkon, Fenster oder Terrassentür, hier finden Sie das passende Netz für jede Situation. Die Netze sind robust und langlebig, damit Sie lange Freude an Ihrer Katze haben."
-                    },
-                    {
-                        "title": "Nicht klumpendes Streu",
-                        "text": "Verabschieden Sie sich von staubendem und klumpendem Streu für Ihre Tiere und entscheiden Sie sich für das nicht klumpende Streu von Alles für die Tiere. Es ist hygienisch, geruchlos und einfach zu entsorgen. Für eine saubere und angenehme Umgebung für Ihre Tiere."
-                    },
-                    {
-                        "title": "Kratzbäume & Kratzmöbel",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/kratzbaeume-kratzmoebel/\" title=\"Kratzbäume & Kratzmöbel\">Kratzbäume & Kratzmöbel</a> finden Sie eine große Auswahl an hochwertigen Kratzmöbeln für Ihre Katze. Unsere Kratzbäume bieten Ihrem Liebling einen sicheren und bequemen Rückzugsort, an dem er seine Krallen wetzen und entspannen kann. Wir führen Modelle in verschiedenen Größen und Farben, damit Sie das perfekte Kratzmöbel für Ihre Katze und Ihre Wohnung finden. Überzeugen Sie sich selbst von unserer Qualität und Auswahl."
-                    },
-                    {
-                        "title": "Kratzbretter",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/kratzbretter/\" title=\"Kratzbretter\">Kratzbretter</a> finden Sie eine Vielzahl an Kratzbrettern für Ihre Katze. Unsere Kratzbretter sind robust und langlebig, damit Ihre Katze lange Freude daran hat. Außerdem sind sie in verschiedenen Farben und Größen erhältlich, damit Sie das passende Kratzbrett für Ihre Katze und Ihre Wohnung finden können. Überzeugen Sie sich selbst von unserer Qualität und Auswahl."
-                    },
-                    {
-                        "title": "Käfigzubehör",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/kaefigzubehoer/\" title=\"Käfigzubehör\">Käfigzubehör</a> finden Sie alles, was Sie für den Komfort und die Gesundheit Ihres Tieres benötigen. Ob Futter- oder Wassernäpfe, Spielzeug oder Einstreu, bei uns werden Sie fündig. Wir bieten Ihnen eine breite Auswahl an hochwertigem Zubehör für Käfige, damit Sie Ihr Tier optimal versorgen können. Überzeugen Sie sich selbst von unserer Qualität und Auswahl."
-                    },
-                    {
-                        "title": "Katzen-Nassfutter",
-                        "text": "In unserer Kategorie '<a href=\"/kategorie/katzen-nassfutter/\" title=\"Katzen-Nassfutter\">Katzen-Nassfutter</a>' finden Sie eine breite Auswahl an hochwertigen Nassfuttersorten für Ihre Katze. Wir bieten Ihnen eine große Auswahl an verschiedenen Geschmacksrichtungen und Marken, damit Sie das passende Futter für Ihre Katze finden. Unsere Nassfutterprodukte sind aus hochwertigen Zutaten hergestellt und bieten Ihrer Katze die notwendigen Nährstoffe, um gesund und fit zu bleiben. Stöbern Sie jetzt durch unser Sortiment und finden Sie das perfekte Nassfutter für Ihre Katze."
-                    },
-                    {
-                        "title": "Terraristik",
-                        "text": "In unserer Kategorie '<a href=\"/kategorie/terraristik/\" title=\"Terraristik\">Terraristik</a>' bieten wir Ihnen alles, was Sie für die Einrichtung und Pflege Ihrer Terrarien benötigen. Von Terrarium-Gehäusen und -Beleuchtungen bis hin zu Terrarium-Zubehör wie Thermometern und Feuchtemessern - bei uns finden Sie alles, was Sie brauchen, um Ihre Terrarientiere optimal zu versorgen. Wir bieten Ihnen eine große Auswahl an verschiedenen Größen und Ausführungen, damit Sie das perfekte Terrarium für Ihre Tiere finden können. Stöbern Sie jetzt durch unser Sortiment und lassen Sie sich von unseren Terraristik-Produkten inspirieren."
-                    },
-                    {
-                        "title": "Terrarium-Dekoration",
-                        "text": "In unserer Kategorie '<a href=\"/kategorie/terrarium-dekoration/\" title=\"Terrarium-Dekoration\">Terrarium-Dekoration</a>' finden Sie alles, was Sie brauchen, um Ihr Terrarium ansprechend und natürlich zu gestalten. Von Terrarium-Bodengrund und -Pflanzen bis hin zu Terrarium-Dekosteinen und -Möbeln - bei uns finden Sie alles, was Sie brauchen, um Ihr Terrarium zu einem echten Hingucker zu machen. Unsere Terrarium-Dekorationen sind aus hochwertigen Materialien hergestellt und bieten Ihren Terrarientieren ein natürliches und angenehmes Umfeld. Stöbern Sie jetzt durch unser Sortiment und gestalten Sie Ihr Terrarium ganz nach Ihren Wünschen."
-                    },
-                    {
-                        "title": "Terrariumzubehör",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/terrariumzubehoer/\" title=\"Terrariumzubehör\">Terrariumzubehör</a> finden Sie alles, was Sie für die Einrichtung und Pflege Ihres Terrariums benötigen. Von Thermometern bis hin zu besonderen Leuchtmitteln für Ihr Terrarium, bieten wir eine große Auswahl an Zubehör für Ihre Terraristik. Stöbern Sie jetzt durch unsere Produkte und finden Sie das passende Zubehör für Ihr Terrarium."
-                    },
-                    {
-                        "title": "Aquarienbeleuchtung Zubehör",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/aquarienbeleuchtung-zubehoer/\" title=\"Aquarienbeleuchtung Zubehör\">Aquarienbeleuchtung Zubehör</a> finden Sie alles, was Sie für die optimale Beleuchtung Ihres Aquariums benötigen. Von LED-Leuchtmitteln bis hin zu Ersatzteilen, bieten wir eine große Auswahl an Zubehör für Ihre Aquarienbeleuchtung. Stöbern Sie jetzt durch unsere Produkte und finden Sie das passende Zubehör für Ihre Aquarienbeleuchtung."
-                    },
-                    {
-                        "title": "Aquarium-Wassertester",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/aquarium-wassertester/\" title=\"Aquarium-Wassertester\">Aquarium-Wassertester</a> finden Sie alles, was Sie für die Überwachung der Wasserqualität in Ihrem Aquarium benötigen. Von einfachen Teststäbchen bis hin zu digitalen Wassertestern, bieten wir eine große Auswahl an Wassertestern für Ihr Aquarium. Stöbern Sie jetzt durch unsere Produkte und finden Sie den passenden Wassertester für Ihr Aquarium."
-                    },
-                    {
-                        "title": "Aquariumzubehör",
-                        "text": "Wir bieten Ihnen eine breite Auswahl an <a href=\"/kategorie/aquariumzubehoer/\" title=\"Aquariumzubehör\">Aquariumzubehör</a>, um Ihr Aquarium optimal auszustatten. Von Reinigungs- und Pflegemitteln bis hin zu technischen Geräten finden Sie bei uns alles, was Sie für ein gesundes und artgerechtes Leben Ihrer Fische benötigen. Überzeugen Sie sich selbst von unserem umfassenden Sortiment und garantierten Qualität."
-                    },
-                    {
-                        "title": "Aquarium-Ersatzteile",
-                        "text": "Ersatzteile sind unverzichtbar, um Ihr Aquarium in einwandfreiem Zustand zu halten. Wir bieten Ihnen eine große Auswahl an <a href=\"/kategorie/aquarium-ersatzteile/\" title=\"Aquarium-Ersatzteile\">Aquarium-Ersatzteile</a>n, die Sie jederzeit einfach und bequem online bestellen können. Ob Sie einen neuen Filter, eine neue Pumpe oder eine neue Beleuchtung suchen, bei uns werden Sie fündig."
-                    },
-                    {
-                        "title": "Dekofiguren für Aquarien",
-                        "text": "Dekofiguren sind ein wichtiger Bestandteil Ihres Aquariums und tragen dazu bei, dass Ihr Aquarium ein echtes Highlight wird. Wir bieten Ihnen eine große Auswahl an hochwertigen und detailreichen Dekofiguren, die Ihr Aquarium zu einem besonderen Erlebnis machen. Ob Sie eine Landschaft, eine Unterwasserwelt oder eine fiktive Figur suchen, bei uns werden Sie fündig."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Tierbedarf - Shop",
-            "metaDescription": "Ein Online-Shop für jegliches Tierbedarf. Breites Sortiment an Qualitätsprodukten. Einfach online bestellen, was ihr Haustier benötigt!",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Hersteller von Tierbedarf",
-            "metaDescription": "Bei uns finden Sie Tierbedarf von marktführenden Herstellern, wie zum Beispiel Biokat´s, Jollypaw, Trixie und Viele weitere.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT - online bestellen",
-        "defaultMetaDescription": "Wählen Sie weitere Tierbedarf-Produkte wie $PRODUKT, von diversen Marken wie $HERSTELLER aus verschiedenen Kategorien wie $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "allesf\u00fcrdietiere.de",
+  "hostname": "https://www.allesf\u00fcrdietiere.de/",
+  "email": "allesf\u00fcrdietiere.de@surrealnetworks.io",
+  "organization": "allesf\u00fcrdietiere.de",
+  "logoText": "Allesf\u00fcrdietiere.de",
+  "title": "Tierbedarf",
+  "subline": "Der Online-Shop f\u00fcr jeden Tierbesitzer",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "8198459",
+    "7766777",
+    "4239398",
+    "8523326",
+    "8523789",
+    "1608215"
+  ],
+  "winnerProducts": [
+    "3526746",
+    "8520157",
+    "8523326"
+  ],
+  "featuredCategories": [
+    "Wildvogelfutter",
+    "K\u00e4figzubeh\u00f6r",
+    "Kleintierstreu",
+    "Vogelh\u00e4user",
+    "Aquarientechnik",
+    "Katzenbedarf"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Tierbedarf",
+    "featureText": "Bei uns finden Sie eine riesige Auswahl an Produkten, die bei jeglicher Art von Tierhaltung erforderlich werden k\u00f6nnen. Dazu z\u00e4hlen beispielsweise Futtermittel, Pflege- & Hygieneprodukte, Hilfsmittel und Vieles mehr. Bei all unseren Produkten handelt es sich um Qualit\u00e4tsprodukte. Klicken Sie sich gerne einmal durch unser Sortiment.  ",
+    "index": {
+      "title": "Tierbedarf - einfach online bestellen",
+      "metaDescription": "Ein Online-Shop f\u00fcr jegliches Tierbedarf - Futtermittel, Pflege- und Hygieneprodukte und Vieles mehr einfach online bestellen!",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei allesf\u00fcrdietiere.de - Ihrem Online-Shop f\u00fcr Tierbedarf",
+            "text": "Herzlich willkommen auf allesf\u00fcrdietiere.de, Ihrem Online-Shop f\u00fcr Tierbedarf. Bei uns finden Sie alles, was Sie f\u00fcr Ihre Tiere ben\u00f6tigen, egal ob Vogel, Kleintier oder Katze. Von Vogelh\u00e4usern \u00fcber Vogelfutterspender bis hin zu Katzenstreu bieten wir eine gro\u00dfe Auswahl an qualitativ hochwertigen Produkten zu g\u00fcnstigen Preisen. \u00dcberzeugen Sie sich selbst von unserem umfangreichen Sortiment und bestellen Sie bequem von zu Hause aus. Bei Fragen steht Ihnen unser kompetentes Team gerne zur Verf\u00fcgung. Wir freuen uns auf Ihren Einkauf bei allesf\u00fcrdietiere.de."
+          },
+          {
+            "title": "Vogelbedarf f\u00fcr Ihre gefiederten Freunde",
+            "text": "In unserer Kategorie Vogelbedarf finden Sie alles, was Sie f\u00fcr Ihre gefiederten Freunde ben\u00f6tigen. Von Vogelfutterspendern \u00fcber Vogelh\u00e4user bis hin zu Vogelfutter. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten zu g\u00fcnstigen Preisen. \u00dcberzeugen Sie sich selbst und entdecken Sie die Welt des Vogelbedarfs bei allesf\u00fcrdietiere.de."
+          },
+          {
+            "title": "Wildv\u00f6gel - ein Teil der Natur",
+            "text": "Mit unserer Kategorie Wildv\u00f6gel m\u00f6chten wir Ihnen einen Einblick in die Welt der Wildv\u00f6gel geben. Hier finden Sie alles, was Sie f\u00fcr die F\u00fctterung und Pflege Ihrer gefiederten Gartenbewohner ben\u00f6tigen. Von Vogelfutterspendern bis hin zu Vogelh\u00e4usern. Lassen Sie sich inspirieren und entdecken Sie die Vielfalt der Wildv\u00f6gel bei allesf\u00fcrdietiere.de."
+          },
+          {
+            "title": "Vogelfutterspender - eine praktische L\u00f6sung",
+            "text": "Mit unseren Vogelfutterspendern k\u00f6nnen Sie Ihren gefiederten Freunden eine st\u00e4ndige Futterquelle bieten. Unsere Vogelfutterspender sind robust und langlebig und eignen sich f\u00fcr die Verwendung im Freien. Entdecken Sie die Vorteile unserer Vogelfutterspender und sorgen Sie f\u00fcr eine zuverl\u00e4ssige Futterversorgung Ihrer V\u00f6gel bei allesf\u00fcrdietiere.de."
+          },
+          {
+            "title": "Vogelh\u00e4user",
+            "text": "Bieten Sie Ihren V\u00f6geln ein Zuhause f\u00fcr ihre Nester mit unseren <a href=\"/kategorie/vogelhaeuser/\" title=\"Vogelh\u00e4user\">Vogelh\u00e4user</a>n. Wir haben eine gro\u00dfe Auswahl an Vogelh\u00e4usern in verschiedenen Gr\u00f6\u00dfen und Designs, um jedem Vogel das perfekte Zuhause zu bieten. Unsere Vogelh\u00e4user sind aus hochwertigen Materialien gefertigt und bieten Schutz vor Wettereinfl\u00fcssen und Feinden. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie das perfekte Vogelhaus f\u00fcr Ihren Garten."
+          },
+          {
+            "title": "Kleintierbedarf",
+            "text": "Pflegen Sie Ihre Kleintiere mit unserem umfassenden Sortiment an <a href=\"/kategorie/kleintierbedarf/\" title=\"Kleintierbedarf\">Kleintierbedarf</a>. Wir bieten alles, was Sie f\u00fcr die Pflege Ihrer Tiere ben\u00f6tigen, von K\u00e4figen und Futter bis hin zu Spielzeug und Pflegeprodukten. Unsere Produkte sind auf die Bed\u00fcrfnisse Ihrer Tiere abgestimmt und bieten maximale Komfort und Sicherheit. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie alles, was Sie f\u00fcr die Pflege Ihrer Kleintiere ben\u00f6tigen."
+          },
+          {
+            "title": "Freilaufgehege",
+            "text": "Bieten Sie Ihren Kleintieren einen sicheren Freilauf mit unseren <a href=\"/kategorie/freilaufgehege/\" title=\"Freilaufgehege\">Freilaufgehege</a>n. Wir haben eine gro\u00dfe Auswahl an Freilaufgehegen in verschiedenen Gr\u00f6\u00dfen und Designs, um jedem Tier den perfekten Freiraum zu bieten. Unsere Freilaufgehege sind aus hochwertigen Materialien gefertigt und bieten Schutz vor Feinden und gef\u00e4hrlichen Situationen. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie das perfekte Freilaufgehege f\u00fcr Ihre Tiere."
+          },
+          {
+            "title": "Katzenbedarf",
+            "text": "Unser Online-Shop bietet Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten f\u00fcr Ihre Katzen. Von Spielzeug und Kratzb\u00e4umen bis hin zu Futtern\u00e4pfen und Transportboxen finden Sie alles, was Ihre Samtpfote gl\u00fccklich macht. Wir legen besonderen Wert auf Qualit\u00e4t und Funktionalit\u00e4t, damit Sie und Ihre Katze lange Freude an unseren Produkten haben. St\u00f6bern Sie jetzt in unserem <a href=\"/kategorie/katzenbedarf/\" title=\"Katzenbedarf\">Katzenbedarf</a>-Sortiment!"
+          },
+          {
+            "title": "Katzenstreu",
+            "text": "Eine hygienische und angenehme Toilette ist f\u00fcr jede Katze wichtig. Deshalb bieten wir Ihnen eine gro\u00dfe Auswahl an hochwertigen <a href=\"/kategorie/katzenstreu/\" title=\"Katzenstreu\">Katzenstreu</a>-Produkten. Ob Klumpstreu oder Naturstreu, bei uns finden Sie garantiert das Richtige f\u00fcr Ihre Katze. Wir legen Wert auf lange Haltbarkeit und gute Saugf\u00e4higkeit, damit Sie m\u00f6glichst wenig Arbeit mit der Reinigung der Katzentoilette haben. St\u00f6bern Sie jetzt in unserem Sortiment an Katzenstreu-Produkten!"
+          },
+          {
+            "title": "Klumpstreu",
+            "text": "<a href=\"/kategorie/klumpstreu/\" title=\"Klumpstreu\">Klumpstreu</a> bietet viele Vorteile f\u00fcr Katzenbesitzer. Es verhindert unangenehme Ger\u00fcche, ist einfach zu reinigen und langlebig. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an hochwertigen Klumpstreu-Produkten, die alle diese Vorteile bieten. Ob geruchsneutral oder mit Duftstoffen, bei uns finden Sie garantiert das Richtige f\u00fcr Ihre Katze. St\u00f6bern Sie jetzt in unserem Sortiment und entdecken Sie die Vorteile von Klumpstreu f\u00fcr sich und Ihre Katze!"
+          },
+          {
+            "title": "Vogelfutter",
+            "text": "Unser Online-Shop bietet Ihnen eine gro\u00dfe Auswahl an <a href=\"/kategorie/vogelfutter/\" title=\"Vogelfutter\">Vogelfutter</a> f\u00fcr alle Arten von V\u00f6geln. Ob kleine Singv\u00f6gel oder gro\u00dfe Wildv\u00f6gel, bei uns finden Sie das passende Futter f\u00fcr Ihre gefiederten Freunde. Alle Produkte sind von h\u00f6chster Qualit\u00e4t und garantieren eine ausgewogene Ern\u00e4hrung f\u00fcr Ihre V\u00f6gel."
+          },
+          {
+            "title": "Wildvogelfutter",
+            "text": "Unser Online-Shop bietet auch <a href=\"/kategorie/wildvogelfutter/\" title=\"Wildvogelfutter\">Wildvogelfutter</a> f\u00fcr alle Arten von Wildv\u00f6geln. Die Auswahl an Wildvogelfutter beinhaltet hochwertige Produkte, die eine ausgewogene Ern\u00e4hrung f\u00fcr Wildv\u00f6gel garantieren. St\u00f6bern Sie durch unser Angebot und finden Sie das passende Futter f\u00fcr Ihre Wildv\u00f6gel."
+          },
+          {
+            "title": "Nagerst\u00e4lle",
+            "text": "In unserem Online-Shop bieten wir Ihnen auch <a href=\"/kategorie/nagerstaelle/\" title=\"Nagerst\u00e4lle\">Nagerst\u00e4lle</a> f\u00fcr Ihre kleinen Haustiere. Unsere Nagerst\u00e4lle sind robust und langlebig, um den Bed\u00fcrfnissen Ihrer Tiere gerecht zu werden. St\u00f6bern Sie durch unser Angebot und finden Sie den perfekten Stall f\u00fcr Ihre Nager."
+          },
+          {
+            "title": "Katzenhygiene & Katzengesundheit",
+            "text": "Katzenhygiene und Katzengesundheit sind ein wichtiger Bestandteil des t\u00e4glichen Lebens Ihrer geliebten Haustiere. In unserem Online-Shop f\u00fcr Tierbedarf bieten wir eine gro\u00dfe Auswahl an Produkten, die Ihnen dabei helfen, Ihre Katzen gesund und sauber zu halten. Von Pflegeprodukten f\u00fcr das Fell und die Augen bis hin zu hygienischen L\u00f6sungen f\u00fcr das Katzenklo \u2013 bei uns finden Sie alles, was Sie ben\u00f6tigen, um Ihre Katzen gesund und gl\u00fccklich zu halten."
+          },
+          {
+            "title": "Katzenklos & Katzentoiletten",
+            "text": "Ein sauberes und hygienisches Katzenklo ist f\u00fcr das Wohlbefinden Ihrer Katze von gro\u00dfer Bedeutung. Bei uns finden Sie eine gro\u00dfe Auswahl an Katzentoiletten, die sich optimal f\u00fcr Ihr Zuhause eignen. Ob Sie ein klassisches Katzenklo, eine Katzentoilette mit Filter oder ein modulares System bevorzugen \u2013 wir bieten Ihnen eine gro\u00dfe Auswahl an Produkten, die Ihnen und Ihrer Katze garantiert gefallen werden."
+          },
+          {
+            "title": "Aquaristik",
+            "text": "<a href=\"/kategorie/aquaristik/\" title=\"Aquaristik\">Aquaristik</a> ist eine faszinierende und entspannende T\u00e4tigkeit, bei der Sie eine eigene kleine Welt im Wasser schaffen k\u00f6nnen. In unserem Online-Shop f\u00fcr Tierbedarf bieten wir eine gro\u00dfe Auswahl an Produkten f\u00fcr die Aquaristik, damit Sie Ihre eigene Unterwasserwelt gestalten k\u00f6nnen. Von Aquarien und Zubeh\u00f6r bis hin zu Fischfutter und Wasserpflegeprodukten \u2013 bei uns finden Sie alles, was Sie f\u00fcr Ihr Aquarium ben\u00f6tigen."
+          },
+          {
+            "title": "Aquarientechnik",
+            "text": "Im Online-Shop allesf\u00fcrdietiere.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/aquarientechnik/\" title=\"Aquarientechnik\">Aquarientechnik</a> f\u00fcr Ihr Aquarium. Unsere Produkte sind von h\u00f6chster Qualit\u00e4t und garantieren Ihnen eine lange Lebensdauer. Ob Sie eine neue Pumpe ben\u00f6tigen, einen Bel\u00fcfter oder ein anderes Ger\u00e4t, wir haben alles, was Sie brauchen, um Ihr Aquarium in Topform zu halten. St\u00f6bern Sie durch unsere Produkte und entdecken Sie, wie Sie Ihr Aquarium noch mehr verbessern k\u00f6nnen."
+          },
+          {
+            "title": "Aquarien-Bel\u00fcfter",
+            "text": "Ein wichtiger Bestandteil jedes Aquariums ist ein Bel\u00fcfter. Bei allesf\u00fcrdietiere.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/aquarien-beluefter/\" title=\"Aquarien-Bel\u00fcfter\">Aquarien-Bel\u00fcfter</a>n, die die Wasserqualit\u00e4t in Ihrem Aquarium verbessern und die Gesundheit Ihrer Fische und Pflanzen f\u00f6rdern. Wir bieten Bel\u00fcfter in verschiedenen Gr\u00f6\u00dfen und Leistungen, so dass Sie das perfekte Ger\u00e4t f\u00fcr Ihr Aquarium finden k\u00f6nnen. \u00dcberzeugen Sie sich selbst von unseren Produkten und bestellen Sie noch heute."
+          },
+          {
+            "title": "Aquarium Pumpen",
+            "text": "F\u00fcr ein gesundes und funktionierendes Aquarium sind Pumpen unverzichtbar. Bei allesf\u00fcrdietiere.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/aquarium-pumpen/\" title=\"Aquarium Pumpen\">Aquarium Pumpen</a>, die Ihnen eine optimale Wasserzirkulation und eine gleichm\u00e4\u00dfige Verteilung von N\u00e4hrstoffen und Sauerstoff im Aquarium garantieren. Unsere Pumpen sind einfach zu installieren und zu bedienen und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt unser Sortiment an Aquarium Pumpen und bestellen Sie noch heute."
+          },
+          {
+            "title": "Kleintierstreu f\u00fcr eine hygienische Tierhaltung",
+            "text": "In unserer Kategorie Kleintierstreu finden Sie eine gro\u00dfe Auswahl an hochwertigen Streuoptionen f\u00fcr Ihre Kleintiere. Von Klumpstreu bis hin zu erg\u00e4nzenden Reinigungsprodukten bieten wir Ihnen alles, was Sie f\u00fcr eine hygienische Tierhaltung ben\u00f6tigen. \u00dcberzeugen Sie sich selbst von unserem umfangreichen Angebot."
+          },
+          {
+            "title": "Katzenfutter f\u00fcr eine ausgewogene Ern\u00e4hrung",
+            "text": "In unserer Kategorie Katzenfutter finden Sie eine gro\u00dfe Auswahl an hochwertigen Futtermitteln f\u00fcr Ihre Katze. Von Trockenfutter bis hin zu Nassfutter bieten wir Ihnen alles, was Sie f\u00fcr eine ausgewogene Ern\u00e4hrung Ihres Tieres ben\u00f6tigen. \u00dcberzeugen Sie sich selbst von unserem umfangreichen Angebot."
+          },
+          {
+            "title": "Katzengras f\u00fcr eine gesunde Verdauung",
+            "text": "In unserer Kategorie Katzengras finden Sie eine gro\u00dfe Auswahl an hochwertigen Grasprodukten f\u00fcr Ihre Katze. Unser Katzengras unterst\u00fctzt eine gesunde Verdauung und kann bei Verdauungsproblemen eine Linderung bringen. \u00dcberzeugen Sie sich selbst von unserem umfangreichen Angebot."
+          },
+          {
+            "title": "Hundebedarf",
+            "text": "Bei Alles f\u00fcr die Tiere finden Sie alles, was Sie f\u00fcr den optimalen Komfort Ihres Hundes ben\u00f6tigen. Unser <a href=\"/kategorie/hundebedarf/\" title=\"Hundebedarf\">Hundebedarf</a>-Sortiment bietet Ihnen eine gro\u00dfe Auswahl an qualitativ hochwertigen Produkten f\u00fcr Ihren Vierbeiner. Von Hundebetten \u00fcber Hundespielzeug bis hin zu Hundeleinen und Halsb\u00e4ndern - bei uns werden Sie f\u00fcndig. \u00dcberzeugen Sie sich selbst von unserem Angebot und g\u00f6nnen Sie Ihrem Hund das Beste!"
+          },
+          {
+            "title": "Hundetransport",
+            "text": "Egal, ob Sie mit Ihrem Hund verreisen m\u00f6chten oder ihn sicher und bequem von A nach B transportieren wollen - bei uns finden Sie das passende <a href=\"/kategorie/hundetransport/\" title=\"Hundetransport\">Hundetransport</a>-System. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Hundetransportboxen, Hundeanh\u00e4ngern und Hundebuggys. Jedes Produkt wurde sorgf\u00e4ltig ausgew\u00e4hlt, um Ihrem Hund eine sichere und komfortable Fahrt zu erm\u00f6glichen."
+          },
+          {
+            "title": "Hundefahrradk\u00f6rbe & Hundeanh\u00e4nger",
+            "text": "Machen Sie mit Ihrem Hund gemeinsame Radtouren und entdecken Sie die Umgebung aus einer neuen Perspektive. Unsere Hundefahrradk\u00f6rbe und Hundeanh\u00e4nger bieten Ihrem Vierbeiner eine bequeme und sichere Fahrt. Wir haben f\u00fcr jeden Bedarf das passende Produkt, ob f\u00fcr kleine oder gro\u00dfe Hunde. \u00dcberzeugen Sie sich von unserem Angebot und erleben Sie gemeinsame Abenteuer mit Ihrem Hund."
+          },
+          {
+            "title": "H\u00fchnerst\u00e4lle",
+            "text": "Sie suchen nach einem zuverl\u00e4ssigen und sicheren H\u00fchnerstall f\u00fcr Ihre H\u00fchner? Dann sind Sie bei uns genau richtig! Wir bieten Ihnen eine gro\u00dfe Auswahl an <a href=\"/kategorie/huehnerstaelle/\" title=\"H\u00fchnerst\u00e4lle\">H\u00fchnerst\u00e4lle</a>n in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen, die den Bed\u00fcrfnissen Ihrer H\u00fchner entsprechen. Unsere H\u00fchnerst\u00e4lle sind aus hochwertigen Materialien gefertigt und bieten Ihren Tieren Schutz vor Witterung und Feinden. Entdecken Sie jetzt unser Sortiment und finden Sie den perfekten H\u00fchnerstall f\u00fcr Ihre Tiere."
+          },
+          {
+            "title": "Aquarien",
+            "text": "Sie m\u00f6chten ein Aquarium in Ihrem Zuhause einrichten? Dann sind Sie bei uns genau richtig! Wir bieten Ihnen eine gro\u00dfe Auswahl an <a href=\"/kategorie/aquarien/\" title=\"Aquarien\">Aquarien</a> in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen. Ob Sie ein Einsteiger oder ein erfahrener Aquarianer sind, wir haben das passende Aquarium f\u00fcr Sie. Unsere Aquarien sind aus hochwertigen Materialien gefertigt und bieten eine optimale Umgebung f\u00fcr Ihre Fische. Entdecken Sie jetzt unser Sortiment und finden Sie das perfekte Aquarium f\u00fcr Ihre Fische."
+          },
+          {
+            "title": "Aquarien-Kombinationen",
+            "text": "Sie m\u00f6chten ein komplettes Aquarium-Set kaufen, das alles enth\u00e4lt, was Sie ben\u00f6tigen? Dann sind Sie bei uns genau richtig! Wir bieten Ihnen eine gro\u00dfe Auswahl an <a href=\"/kategorie/aquarien-kombinationen/\" title=\"Aquarien-Kombinationen\">Aquarien-Kombinationen</a>, die alles enthalten, was Sie f\u00fcr den Betrieb Ihres Aquariums ben\u00f6tigen. Von Aquarien \u00fcber technische Ger\u00e4te bis hin zu Pflanzen und Fischfutter - bei uns finden Sie alles, was Sie ben\u00f6tigen. Entdecken Sie jetzt unser Sortiment und finden Sie die perfekte Aquarien-Kombination f\u00fcr Ihre Fische."
+          },
+          {
+            "title": "Nanoaquarien & Miniaquarien",
+            "text": "Besuchen Sie unsere Kategorie <a href=\"/kategorie/nanoaquarien-miniaquarien/\" title=\"Nanoaquarien & Miniaquarien\">Nanoaquarien & Miniaquarien</a>, um das perfekte Aquarium f\u00fcr Ihre kleinen Fische zu finden. Wir bieten eine gro\u00dfe Auswahl an Aquarien in verschiedenen Gr\u00f6\u00dfen und Farben, damit Sie genau das Richtige f\u00fcr Ihre Bed\u00fcrfnisse finden. Unsere hochwertigen Nano- und Miniaquarien eignen sich perfekt f\u00fcr kleine R\u00e4ume und bieten eine atemberaubende Unterwasserwelt f\u00fcr Ihre Fische."
+          },
+          {
+            "title": "Aquariumpflege",
+            "text": "In unserer Kategorie <a href=\"/kategorie/aquariumpflege/\" title=\"Aquariumpflege\">Aquariumpflege</a> finden Sie alles, was Sie f\u00fcr die Pflege Ihres Aquariums ben\u00f6tigen. Von Reinigungswerkzeugen bis hin zu Wasserpflegemitteln bieten wir eine gro\u00dfe Auswahl an Produkten, die Ihnen dabei helfen, das Wasser kristallklar zu halten und Ihre Fische gesund und gl\u00fccklich zu halten. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie alles, was Sie f\u00fcr die perfekte Aquariumpflege ben\u00f6tigen."
+          },
+          {
+            "title": "Bodengrund f\u00fcr Aquarien",
+            "text": "Ein wichtiger Bestandteil jedes Aquariums ist der Bodengrund. In unserer Kategorie <a href=\"/kategorie/bodengrund-fuer-aquarien/\" title=\"Bodengrund f\u00fcr Aquarien\">Bodengrund f\u00fcr Aquarien</a> bieten wir eine breite Auswahl an Bodengrundarten, die dazu beitragen, das nat\u00fcrliche \u00d6kosystem im Aquarium aufrechtzuerhalten. Von Kies bis hin zu speziellen Bodengrundarten f\u00fcr Pflanzen finden Sie bei uns genau den Bodengrund, der f\u00fcr Ihr Aquarium am besten geeignet ist."
+          },
+          {
+            "title": "Nistk\u00e4sten f\u00fcr Ihre V\u00f6gel",
+            "text": "Der Online-Shop allesf\u00fcrdietiere.de bietet Ihnen eine gro\u00dfe Auswahl an <a href=\"/kategorie/nistkaesten/\" title=\"Nistk\u00e4sten f\u00fcr Ihre V\u00f6gel\">Nistk\u00e4sten f\u00fcr Ihre V\u00f6gel</a>. Egal ob f\u00fcr Meisen, Sperlinge oder andere Vogelarten - wir haben das passende Zuhause f\u00fcr Ihre gefiederten Freunde. \u00dcberzeugen Sie sich selbst von der hohen Qualit\u00e4t und Verarbeitung unserer Nistk\u00e4sten. Besuchen Sie jetzt unsere Kategorie Nistk\u00e4sten und entdecken Sie das ideale Zuhause f\u00fcr Ihre V\u00f6gel."
+          },
+          {
+            "title": "Aquarium Filter f\u00fcr sauberes Wasser",
+            "text": "Der Online-Shop allesf\u00fcrdietiere.de bietet Ihnen eine gro\u00dfe Auswahl an Aquarium Filtern. Egal ob Innen- oder Au\u00dfenfilter, wir haben das passende Modell f\u00fcr Ihr Aquarium. Garantiert sauberes und gesundes Wasser f\u00fcr Ihre Fische - mit den hochwertigen Aquarium Filtern von allesf\u00fcrdietiere.de. Besuchen Sie jetzt unsere Kategorie Aquarium Filter und entdecken Sie die vielf\u00e4ltigen M\u00f6glichkeiten f\u00fcr Ihr Aquarium."
+          },
+          {
+            "title": "Aquarium Beleuchtung f\u00fcr eine nat\u00fcrliche Umgebung",
+            "text": "Der Online-Shop allesf\u00fcrdietiere.de bietet Ihnen eine gro\u00dfe Auswahl an Aquarium Beleuchtungen. Egal ob LED, T5 oder T8 - wir haben das passende Modell f\u00fcr Ihr Aquarium. Schaffen Sie Ihren Fischen eine nat\u00fcrliche Umgebung und garantieren Sie ihnen eine ausreichende Beleuchtung. Besuchen Sie jetzt unsere Kategorie Aquarium Beleuchtung und entdecken Sie die vielf\u00e4ltigen M\u00f6glichkeiten f\u00fcr Ihr Aquarium."
+          },
+          {
+            "title": "Aquarienglasbecken",
+            "text": "Entdecken Sie bei Allesf\u00fcrdietiere eine gro\u00dfe Auswahl an <a href=\"/kategorie/aquarienglasbecken/\" title=\"Aquarienglasbecken\">Aquarienglasbecken</a> f\u00fcr Ihr Zuhause. Ob Sie ein erfahrener Aquarianer oder neu in der Welt der Aquarien sind, wir bieten Ihnen hochwertige und langlebige Aquarienglasbecken in verschiedenen Gr\u00f6\u00dfen und Formen, um Ihren Anforderungen gerecht zu werden. Verleihen Sie Ihrem Aquarium ein neues Leben und w\u00e4hlen Sie aus unserer breiten Palette an Aquarienglasbecken."
+          },
+          {
+            "title": "Aquarien-Komplettsets",
+            "text": "Allesf\u00fcrdietiere bietet eine breite Auswahl an <a href=\"/kategorie/aquarien-komplettsets/\" title=\"Aquarien-Komplettsets\">Aquarien-Komplettsets</a> f\u00fcr alle, die in die Welt der Aquarien einsteigen m\u00f6chten. Unsere Sets enthalten alles, was Sie ben\u00f6tigen, um Ihr eigenes Aquarium einzurichten, inklusive Aquarienglasbecken, Filter, Beleuchtung und weiteren wichtigen Komponenten. Unsere erfahrenen Mitarbeiter stehen Ihnen jederzeit zur Verf\u00fcgung, um Ihnen bei der Auswahl des perfekten Sets f\u00fcr Ihre Bed\u00fcrfnisse zu helfen."
+          },
+          {
+            "title": "Aquarium Dekoration",
+            "text": "Verleihen Sie Ihrem Aquarium den perfekten Touch mit unserer breiten Auswahl an Aquarium-Dekorationen bei Allesf\u00fcrdietiere. Wir haben eine gro\u00dfe Auswahl an hochwertigen und langlebigen Aquarium-Dekorationen, einschlie\u00dflich Steinen, Wurzeln, Pflanzen und vielem mehr, um Ihrem Aquarium eine nat\u00fcrliche Umgebung zu geben. Durch unsere sorgf\u00e4ltig ausgew\u00e4hlte Palette an Aquarium-Dekorationen k\u00f6nnen Sie Ihr Aquarium nach Ihren W\u00fcnschen gestalten."
+          },
+          {
+            "title": "Aquarien-Dekosteine",
+            "text": "Geben Sie Ihrem Aquarium eine ganz besondere Note mit den <a href=\"/kategorie/aquarien-dekosteine/\" title=\"Aquarien-Dekosteine\">Aquarien-Dekosteine</a>n von Alles f\u00fcr die Tiere. Hier finden Sie eine gro\u00dfe Auswahl an unterschiedlichen Formen und Farben, um das optische Erscheinungsbild Ihres Aquariums nach Ihren W\u00fcnschen zu gestalten. Ob als nat\u00fcrliches Riff oder futuristische Landschaft, mit den Aquarien-Dekosteinen k\u00f6nnen Sie kreativ werden."
+          },
+          {
+            "title": "Sicherheitsnetze f\u00fcr Katzen",
+            "text": "Sch\u00fctzen Sie Ihre Katze vor Unf\u00e4llen und geben Sie ihr gleichzeitig Freiraum mit den Sicherheitsnetzen von Alles f\u00fcr die Tiere. Ob Balkon, Fenster oder Terrassent\u00fcr, hier finden Sie das passende Netz f\u00fcr jede Situation. Die Netze sind robust und langlebig, damit Sie lange Freude an Ihrer Katze haben."
+          },
+          {
+            "title": "Nicht klumpendes Streu",
+            "text": "Verabschieden Sie sich von staubendem und klumpendem Streu f\u00fcr Ihre Tiere und entscheiden Sie sich f\u00fcr das nicht klumpende Streu von Alles f\u00fcr die Tiere. Es ist hygienisch, geruchlos und einfach zu entsorgen. F\u00fcr eine saubere und angenehme Umgebung f\u00fcr Ihre Tiere."
+          },
+          {
+            "title": "Kratzb\u00e4ume & Kratzm\u00f6bel",
+            "text": "In unserer Kategorie <a href=\"/kategorie/kratzbaeume-kratzmoebel/\" title=\"Kratzb\u00e4ume & Kratzm\u00f6bel\">Kratzb\u00e4ume & Kratzm\u00f6bel</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen Kratzm\u00f6beln f\u00fcr Ihre Katze. Unsere Kratzb\u00e4ume bieten Ihrem Liebling einen sicheren und bequemen R\u00fcckzugsort, an dem er seine Krallen wetzen und entspannen kann. Wir f\u00fchren Modelle in verschiedenen Gr\u00f6\u00dfen und Farben, damit Sie das perfekte Kratzm\u00f6bel f\u00fcr Ihre Katze und Ihre Wohnung finden. \u00dcberzeugen Sie sich selbst von unserer Qualit\u00e4t und Auswahl."
+          },
+          {
+            "title": "Kratzbretter",
+            "text": "In unserer Kategorie <a href=\"/kategorie/kratzbretter/\" title=\"Kratzbretter\">Kratzbretter</a> finden Sie eine Vielzahl an Kratzbrettern f\u00fcr Ihre Katze. Unsere Kratzbretter sind robust und langlebig, damit Ihre Katze lange Freude daran hat. Au\u00dferdem sind sie in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich, damit Sie das passende Kratzbrett f\u00fcr Ihre Katze und Ihre Wohnung finden k\u00f6nnen. \u00dcberzeugen Sie sich selbst von unserer Qualit\u00e4t und Auswahl."
+          },
+          {
+            "title": "K\u00e4figzubeh\u00f6r",
+            "text": "In unserer Kategorie <a href=\"/kategorie/kaefigzubehoer/\" title=\"K\u00e4figzubeh\u00f6r\">K\u00e4figzubeh\u00f6r</a> finden Sie alles, was Sie f\u00fcr den Komfort und die Gesundheit Ihres Tieres ben\u00f6tigen. Ob Futter- oder Wassern\u00e4pfe, Spielzeug oder Einstreu, bei uns werden Sie f\u00fcndig. Wir bieten Ihnen eine breite Auswahl an hochwertigem Zubeh\u00f6r f\u00fcr K\u00e4fige, damit Sie Ihr Tier optimal versorgen k\u00f6nnen. \u00dcberzeugen Sie sich selbst von unserer Qualit\u00e4t und Auswahl."
+          },
+          {
+            "title": "Katzen-Nassfutter",
+            "text": "In unserer Kategorie '<a href=\"/kategorie/katzen-nassfutter/\" title=\"Katzen-Nassfutter\">Katzen-Nassfutter</a>' finden Sie eine breite Auswahl an hochwertigen Nassfuttersorten f\u00fcr Ihre Katze. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Geschmacksrichtungen und Marken, damit Sie das passende Futter f\u00fcr Ihre Katze finden. Unsere Nassfutterprodukte sind aus hochwertigen Zutaten hergestellt und bieten Ihrer Katze die notwendigen N\u00e4hrstoffe, um gesund und fit zu bleiben. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie das perfekte Nassfutter f\u00fcr Ihre Katze."
+          },
+          {
+            "title": "Terraristik",
+            "text": "In unserer Kategorie '<a href=\"/kategorie/terraristik/\" title=\"Terraristik\">Terraristik</a>' bieten wir Ihnen alles, was Sie f\u00fcr die Einrichtung und Pflege Ihrer Terrarien ben\u00f6tigen. Von Terrarium-Geh\u00e4usen und -Beleuchtungen bis hin zu Terrarium-Zubeh\u00f6r wie Thermometern und Feuchtemessern - bei uns finden Sie alles, was Sie brauchen, um Ihre Terrarientiere optimal zu versorgen. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen, damit Sie das perfekte Terrarium f\u00fcr Ihre Tiere finden k\u00f6nnen. St\u00f6bern Sie jetzt durch unser Sortiment und lassen Sie sich von unseren Terraristik-Produkten inspirieren."
+          },
+          {
+            "title": "Terrarium-Dekoration",
+            "text": "In unserer Kategorie '<a href=\"/kategorie/terrarium-dekoration/\" title=\"Terrarium-Dekoration\">Terrarium-Dekoration</a>' finden Sie alles, was Sie brauchen, um Ihr Terrarium ansprechend und nat\u00fcrlich zu gestalten. Von Terrarium-Bodengrund und -Pflanzen bis hin zu Terrarium-Dekosteinen und -M\u00f6beln - bei uns finden Sie alles, was Sie brauchen, um Ihr Terrarium zu einem echten Hingucker zu machen. Unsere Terrarium-Dekorationen sind aus hochwertigen Materialien hergestellt und bieten Ihren Terrarientieren ein nat\u00fcrliches und angenehmes Umfeld. St\u00f6bern Sie jetzt durch unser Sortiment und gestalten Sie Ihr Terrarium ganz nach Ihren W\u00fcnschen."
+          },
+          {
+            "title": "Terrariumzubeh\u00f6r",
+            "text": "In unserer Kategorie <a href=\"/kategorie/terrariumzubehoer/\" title=\"Terrariumzubeh\u00f6r\">Terrariumzubeh\u00f6r</a> finden Sie alles, was Sie f\u00fcr die Einrichtung und Pflege Ihres Terrariums ben\u00f6tigen. Von Thermometern bis hin zu besonderen Leuchtmitteln f\u00fcr Ihr Terrarium, bieten wir eine gro\u00dfe Auswahl an Zubeh\u00f6r f\u00fcr Ihre Terraristik. St\u00f6bern Sie jetzt durch unsere Produkte und finden Sie das passende Zubeh\u00f6r f\u00fcr Ihr Terrarium."
+          },
+          {
+            "title": "Aquarienbeleuchtung Zubeh\u00f6r",
+            "text": "In unserer Kategorie <a href=\"/kategorie/aquarienbeleuchtung-zubehoer/\" title=\"Aquarienbeleuchtung Zubeh\u00f6r\">Aquarienbeleuchtung Zubeh\u00f6r</a> finden Sie alles, was Sie f\u00fcr die optimale Beleuchtung Ihres Aquariums ben\u00f6tigen. Von LED-Leuchtmitteln bis hin zu Ersatzteilen, bieten wir eine gro\u00dfe Auswahl an Zubeh\u00f6r f\u00fcr Ihre Aquarienbeleuchtung. St\u00f6bern Sie jetzt durch unsere Produkte und finden Sie das passende Zubeh\u00f6r f\u00fcr Ihre Aquarienbeleuchtung."
+          },
+          {
+            "title": "Aquarium-Wassertester",
+            "text": "In unserer Kategorie <a href=\"/kategorie/aquarium-wassertester/\" title=\"Aquarium-Wassertester\">Aquarium-Wassertester</a> finden Sie alles, was Sie f\u00fcr die \u00dcberwachung der Wasserqualit\u00e4t in Ihrem Aquarium ben\u00f6tigen. Von einfachen Testst\u00e4bchen bis hin zu digitalen Wassertestern, bieten wir eine gro\u00dfe Auswahl an Wassertestern f\u00fcr Ihr Aquarium. St\u00f6bern Sie jetzt durch unsere Produkte und finden Sie den passenden Wassertester f\u00fcr Ihr Aquarium."
+          },
+          {
+            "title": "Aquariumzubeh\u00f6r",
+            "text": "Wir bieten Ihnen eine breite Auswahl an <a href=\"/kategorie/aquariumzubehoer/\" title=\"Aquariumzubeh\u00f6r\">Aquariumzubeh\u00f6r</a>, um Ihr Aquarium optimal auszustatten. Von Reinigungs- und Pflegemitteln bis hin zu technischen Ger\u00e4ten finden Sie bei uns alles, was Sie f\u00fcr ein gesundes und artgerechtes Leben Ihrer Fische ben\u00f6tigen. \u00dcberzeugen Sie sich selbst von unserem umfassenden Sortiment und garantierten Qualit\u00e4t."
+          },
+          {
+            "title": "Aquarium-Ersatzteile",
+            "text": "Ersatzteile sind unverzichtbar, um Ihr Aquarium in einwandfreiem Zustand zu halten. Wir bieten Ihnen eine gro\u00dfe Auswahl an <a href=\"/kategorie/aquarium-ersatzteile/\" title=\"Aquarium-Ersatzteile\">Aquarium-Ersatzteile</a>n, die Sie jederzeit einfach und bequem online bestellen k\u00f6nnen. Ob Sie einen neuen Filter, eine neue Pumpe oder eine neue Beleuchtung suchen, bei uns werden Sie f\u00fcndig."
+          },
+          {
+            "title": "Dekofiguren f\u00fcr Aquarien",
+            "text": "Dekofiguren sind ein wichtiger Bestandteil Ihres Aquariums und tragen dazu bei, dass Ihr Aquarium ein echtes Highlight wird. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen und detailreichen Dekofiguren, die Ihr Aquarium zu einem besonderen Erlebnis machen. Ob Sie eine Landschaft, eine Unterwasserwelt oder eine fiktive Figur suchen, bei uns werden Sie f\u00fcndig."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE - eine riesige Auswahl",
-        "defaultMetaDescription": "$KATEGORIE: Alles für Ihr Haustier! Futtermittel , Pflege- und Hygieneprodukte und Vieles mehr. Für Hund, Katze, Vogel, Nager, Fisch usw. ",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Tierbedarf - Shop",
+      "metaDescription": "Ein Online-Shop f\u00fcr jegliches Tierbedarf. Breites Sortiment an Qualit\u00e4tsprodukten. Einfach online bestellen, was ihr Haustier ben\u00f6tigt!",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER - Markenprodukte zum günstigen Preis",
-        "defaultMetaDescription": "$HERSTELLER und viele weitere Marken in unserem Online-Shop. Qualitätsprodukte für Ihr Haustier zum günstigen Preis. Einfach online bestellen.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Tierbedarf",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Tierbedarf Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Tierbedarf Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Hersteller von Tierbedarf",
+      "metaDescription": "Bei uns finden Sie Tierbedarf von marktf\u00fchrenden Herstellern, wie zum Beispiel Biokat\u00b4s, Jollypaw, Trixie und Viele weitere.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT - online bestellen",
+    "defaultMetaDescription": "W\u00e4hlen Sie weitere Tierbedarf-Produkte wie $PRODUKT, von diversen Marken wie $HERSTELLER aus verschiedenen Kategorien wie $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE - eine riesige Auswahl",
+    "defaultMetaDescription": "$KATEGORIE: Alles f\u00fcr Ihr Haustier! Futtermittel , Pflege- und Hygieneprodukte und Vieles mehr. F\u00fcr Hund, Katze, Vogel, Nager, Fisch usw. ",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER - Markenprodukte zum g\u00fcnstigen Preis",
+    "defaultMetaDescription": "$HERSTELLER und viele weitere Marken in unserem Online-Shop. Qualit\u00e4tsprodukte f\u00fcr Ihr Haustier zum g\u00fcnstigen Preis. Einfach online bestellen.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Tierbedarf",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Tierbedarf Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Tierbedarf Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
